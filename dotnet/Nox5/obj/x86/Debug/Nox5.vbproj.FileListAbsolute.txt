@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\Nox5\bin\Debug\Nox5.exe
+C:\myProgram\dotnet\Nox5\bin\Debug\Nox5.pdb
+C:\myProgram\dotnet\Nox5\bin\Debug\Nox5.xml
+C:\myProgram\dotnet\Nox5\obj\x86\Debug\Nox5.Form1.resources
+C:\myProgram\dotnet\Nox5\obj\x86\Debug\Nox5.Resources.resources
+C:\myProgram\dotnet\Nox5\obj\x86\Debug\Nox5.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\Nox5\obj\x86\Debug\Nox5.exe
+C:\myProgram\dotnet\Nox5\obj\x86\Debug\Nox5.xml
+C:\myProgram\dotnet\Nox5\obj\x86\Debug\Nox5.pdb

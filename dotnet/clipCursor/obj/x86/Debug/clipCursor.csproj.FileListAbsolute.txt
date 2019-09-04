@@ -1,0 +1,7 @@
+C:\myProgram\dotnet\clipCursor\bin\Debug\clipCursor.exe
+C:\myProgram\dotnet\clipCursor\bin\Debug\clipCursor.pdb
+C:\myProgram\dotnet\clipCursor\obj\x86\Debug\clipCursor.Properties.Resources.resources
+C:\myProgram\dotnet\clipCursor\obj\x86\Debug\clipCursor.csproj.GenerateResource.Cache
+C:\myProgram\dotnet\clipCursor\obj\x86\Debug\clipCursor.exe
+C:\myProgram\dotnet\clipCursor\obj\x86\Debug\clipCursor.pdb
+C:\myProgram\dotnet\clipCursor\obj\x86\Debug\clipCursor.Form1.resources

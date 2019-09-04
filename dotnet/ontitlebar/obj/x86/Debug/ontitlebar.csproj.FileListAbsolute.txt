@@ -1,0 +1,7 @@
+C:\myProgram\dotnet\ontitlebar\bin\Debug\ontitlebar.exe
+C:\myProgram\dotnet\ontitlebar\bin\Debug\ontitlebar.pdb
+C:\myProgram\dotnet\ontitlebar\obj\x86\Debug\ontitlebar.Form1.resources
+C:\myProgram\dotnet\ontitlebar\obj\x86\Debug\ontitlebar.Properties.Resources.resources
+C:\myProgram\dotnet\ontitlebar\obj\x86\Debug\ontitlebar.csproj.GenerateResource.Cache
+C:\myProgram\dotnet\ontitlebar\obj\x86\Debug\ontitlebar.exe
+C:\myProgram\dotnet\ontitlebar\obj\x86\Debug\ontitlebar.pdb

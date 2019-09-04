@@ -1,0 +1,5 @@
+C:\myProgram\dotnet\avtool8\bin\Debug\avtool8.dll
+C:\myProgram\dotnet\avtool8\bin\Debug\avtool8.pdb
+C:\myProgram\dotnet\avtool8\obj\Debug\avtool8.csprojResolveAssemblyReference.cache
+C:\myProgram\dotnet\avtool8\obj\Debug\avtool8.dll
+C:\myProgram\dotnet\avtool8\obj\Debug\avtool8.pdb

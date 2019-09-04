@@ -1,0 +1,8 @@
+C:\myprogram\dotnet\findwindow亂碼問題解決\bin\Debug\findwindow亂碼問題解決.exe
+C:\myprogram\dotnet\findwindow亂碼問題解決\bin\Debug\findwindow亂碼問題解決.pdb
+C:\myprogram\dotnet\findwindow亂碼問題解決\bin\Debug\findwindow亂碼問題解決.xml
+C:\myprogram\dotnet\findwindow亂碼問題解決\obj\x86\Debug\findwindow亂碼問題解決.Resources.resources
+C:\myprogram\dotnet\findwindow亂碼問題解決\obj\x86\Debug\findwindow亂碼問題解決.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\findwindow亂碼問題解決\obj\x86\Debug\findwindow亂碼問題解決.exe
+C:\myprogram\dotnet\findwindow亂碼問題解決\obj\x86\Debug\findwindow亂碼問題解決.xml
+C:\myprogram\dotnet\findwindow亂碼問題解決\obj\x86\Debug\findwindow亂碼問題解決.pdb

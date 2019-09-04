@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MonitorPower", "MonitorPower.vbproj", "{DDFD2318-175B-4536-9A54-F5B5990903A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDFD2318-175B-4536-9A54-F5B5990903A5}.Debug|x86.ActiveCfg = Debug|x86
+		{DDFD2318-175B-4536-9A54-F5B5990903A5}.Debug|x86.Build.0 = Debug|x86
+		{DDFD2318-175B-4536-9A54-F5B5990903A5}.Release|x86.ActiveCfg = Release|x86
+		{DDFD2318-175B-4536-9A54-F5B5990903A5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

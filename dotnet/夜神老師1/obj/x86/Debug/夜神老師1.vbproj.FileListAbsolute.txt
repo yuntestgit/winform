@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\夜神老師1\bin\Debug\夜神老師1.exe
+C:\myProgram\dotnet\夜神老師1\bin\Debug\夜神老師1.pdb
+C:\myProgram\dotnet\夜神老師1\bin\Debug\夜神老師1.xml
+C:\myProgram\dotnet\夜神老師1\obj\x86\Debug\夜神老師1.Form1.resources
+C:\myProgram\dotnet\夜神老師1\obj\x86\Debug\夜神老師1.Resources.resources
+C:\myProgram\dotnet\夜神老師1\obj\x86\Debug\夜神老師1.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\夜神老師1\obj\x86\Debug\夜神老師1.exe
+C:\myProgram\dotnet\夜神老師1\obj\x86\Debug\夜神老師1.xml
+C:\myProgram\dotnet\夜神老師1\obj\x86\Debug\夜神老師1.pdb

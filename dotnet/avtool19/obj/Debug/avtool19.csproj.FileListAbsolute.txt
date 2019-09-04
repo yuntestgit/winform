@@ -1,0 +1,4 @@
+C:\myProgram\dotnet\avtool19\bin\Debug\avtool19.dll
+C:\myProgram\dotnet\avtool19\bin\Debug\avtool19.pdb
+C:\myProgram\dotnet\avtool19\obj\Debug\avtool19.dll
+C:\myProgram\dotnet\avtool19\obj\Debug\avtool19.pdb

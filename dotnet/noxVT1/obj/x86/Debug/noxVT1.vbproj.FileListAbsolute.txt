@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\noxVT1\bin\Debug\noxVT1.exe
+C:\myProgram\dotnet\noxVT1\bin\Debug\noxVT1.pdb
+C:\myProgram\dotnet\noxVT1\bin\Debug\noxVT1.xml
+C:\myProgram\dotnet\noxVT1\obj\x86\Debug\noxVT1.Resources.resources
+C:\myProgram\dotnet\noxVT1\obj\x86\Debug\noxVT1.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\noxVT1\obj\x86\Debug\noxVT1.exe
+C:\myProgram\dotnet\noxVT1\obj\x86\Debug\noxVT1.xml
+C:\myProgram\dotnet\noxVT1\obj\x86\Debug\noxVT1.pdb
+C:\myProgram\dotnet\noxVT1\obj\x86\Debug\noxVT1.Form1.resources

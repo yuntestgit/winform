@@ -1,0 +1,8 @@
+C:\myProgram\dotnet\GF5.0\bin\Debug\GF5.0.exe
+C:\myProgram\dotnet\GF5.0\bin\Debug\GF5.0.pdb
+C:\myProgram\dotnet\GF5.0\bin\Debug\GF5.0.xml
+C:\myProgram\dotnet\GF5.0\obj\x86\Debug\GF5._0.Resources.resources
+C:\myProgram\dotnet\GF5.0\obj\x86\Debug\GF5.0.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\GF5.0\obj\x86\Debug\GF5.0.exe
+C:\myProgram\dotnet\GF5.0\obj\x86\Debug\GF5.0.xml
+C:\myProgram\dotnet\GF5.0\obj\x86\Debug\GF5.0.pdb

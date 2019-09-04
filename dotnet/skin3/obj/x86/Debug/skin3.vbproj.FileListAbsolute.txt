@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\skin3\bin\Debug\skin3.exe
+C:\myprogram\dotnet\skin3\bin\Debug\skin3.pdb
+C:\myprogram\dotnet\skin3\bin\Debug\skin3.xml
+C:\myprogram\dotnet\skin3\obj\x86\Debug\skin3.Resources.resources
+C:\myprogram\dotnet\skin3\obj\x86\Debug\skin3.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\skin3\obj\x86\Debug\skin3.exe
+C:\myprogram\dotnet\skin3\obj\x86\Debug\skin3.xml
+C:\myprogram\dotnet\skin3\obj\x86\Debug\skin3.pdb
+C:\myprogram\dotnet\skin3\obj\x86\Debug\skin3.Main.resources

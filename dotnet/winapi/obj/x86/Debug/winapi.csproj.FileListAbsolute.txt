@@ -1,0 +1,8 @@
+C:\myProgram\dotnet\winapi\bin\Debug\winapi.exe
+C:\myProgram\dotnet\winapi\bin\Debug\winapi.pdb
+C:\myProgram\dotnet\winapi\obj\x86\Debug\winapi.Properties.Resources.resources
+C:\myProgram\dotnet\winapi\obj\x86\Debug\winapi.csproj.GenerateResource.Cache
+C:\myProgram\dotnet\winapi\obj\x86\Debug\winapi.exe
+C:\myProgram\dotnet\winapi\obj\x86\Debug\winapi.pdb
+C:\myProgram\dotnet\winapi\obj\x86\Debug\winapi.Form1.resources
+C:\myProgram\dotnet\winapi\obj\x86\Debug\winapi.csprojResolveAssemblyReference.cache

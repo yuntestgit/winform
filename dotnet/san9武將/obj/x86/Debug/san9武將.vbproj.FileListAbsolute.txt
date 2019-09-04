@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\san9武將\bin\Debug\san9武將.exe
+C:\myprogram\dotnet\san9武將\bin\Debug\san9武將.pdb
+C:\myprogram\dotnet\san9武將\bin\Debug\san9武將.xml
+C:\myprogram\dotnet\san9武將\obj\x86\Debug\san9武將.Form1.resources
+C:\myprogram\dotnet\san9武將\obj\x86\Debug\san9武將.Resources.resources
+C:\myprogram\dotnet\san9武將\obj\x86\Debug\san9武將.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\san9武將\obj\x86\Debug\san9武將.exe
+C:\myprogram\dotnet\san9武將\obj\x86\Debug\san9武將.xml
+C:\myprogram\dotnet\san9武將\obj\x86\Debug\san9武將.pdb

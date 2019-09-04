@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\teststring\bin\Debug\teststring.exe
+C:\myprogram\dotnet\teststring\bin\Debug\teststring.pdb
+C:\myprogram\dotnet\teststring\bin\Debug\teststring.xml
+C:\myprogram\dotnet\teststring\obj\x86\Debug\teststring.Form1.resources
+C:\myprogram\dotnet\teststring\obj\x86\Debug\teststring.Resources.resources
+C:\myprogram\dotnet\teststring\obj\x86\Debug\teststring.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\teststring\obj\x86\Debug\teststring.exe
+C:\myprogram\dotnet\teststring\obj\x86\Debug\teststring.xml
+C:\myprogram\dotnet\teststring\obj\x86\Debug\teststring.pdb

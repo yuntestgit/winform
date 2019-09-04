@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\送\bin\Debug\送.exe
+C:\myprogram\dotnet\送\bin\Debug\送.pdb
+C:\myprogram\dotnet\送\bin\Debug\送.xml
+C:\myprogram\dotnet\送\obj\x86\Debug\送.Form1.resources
+C:\myprogram\dotnet\送\obj\x86\Debug\送.Resources.resources
+C:\myprogram\dotnet\送\obj\x86\Debug\送.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\送\obj\x86\Debug\送.exe
+C:\myprogram\dotnet\送\obj\x86\Debug\送.xml
+C:\myprogram\dotnet\送\obj\x86\Debug\送.pdb

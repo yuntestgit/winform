@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\bsTool\bin\Debug\bsTool.exe
+C:\myprogram\dotnet\bsTool\bin\Debug\bsTool.pdb
+C:\myprogram\dotnet\bsTool\bin\Debug\bsTool.xml
+C:\myprogram\dotnet\bsTool\obj\x86\Debug\bsTool.Form1.resources
+C:\myprogram\dotnet\bsTool\obj\x86\Debug\bsTool.Resources.resources
+C:\myprogram\dotnet\bsTool\obj\x86\Debug\bsTool.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\bsTool\obj\x86\Debug\bsTool.exe
+C:\myprogram\dotnet\bsTool\obj\x86\Debug\bsTool.xml
+C:\myprogram\dotnet\bsTool\obj\x86\Debug\bsTool.pdb

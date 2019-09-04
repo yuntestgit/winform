@@ -1,0 +1,10 @@
+C:\myprogram\dotnet\call lib3\bin\Debug\call lib3.exe
+C:\myprogram\dotnet\call lib3\bin\Debug\call lib3.pdb
+C:\myprogram\dotnet\call lib3\bin\Debug\call lib3.xml
+C:\myprogram\dotnet\call lib3\obj\x86\Debug\call_lib3.Resources.resources
+C:\myprogram\dotnet\call lib3\obj\x86\Debug\call lib3.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\call lib3\obj\x86\Debug\call lib3.exe
+C:\myprogram\dotnet\call lib3\obj\x86\Debug\call lib3.xml
+C:\myprogram\dotnet\call lib3\obj\x86\Debug\call lib3.pdb
+C:\myprogram\dotnet\call lib3\obj\x86\Debug\call lib3.vbprojResolveAssemblyReference.cache
+C:\myprogram\dotnet\call lib3\obj\x86\Debug\call_lib3.Form1.resources

@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\processkill\bin\Debug\processkill.exe
+C:\myprogram\dotnet\processkill\bin\Debug\processkill.pdb
+C:\myprogram\dotnet\processkill\bin\Debug\processkill.xml
+C:\myprogram\dotnet\processkill\obj\x86\Debug\processkill.Form1.resources
+C:\myprogram\dotnet\processkill\obj\x86\Debug\processkill.Resources.resources
+C:\myprogram\dotnet\processkill\obj\x86\Debug\processkill.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\processkill\obj\x86\Debug\processkill.exe
+C:\myprogram\dotnet\processkill\obj\x86\Debug\processkill.xml
+C:\myprogram\dotnet\processkill\obj\x86\Debug\processkill.pdb

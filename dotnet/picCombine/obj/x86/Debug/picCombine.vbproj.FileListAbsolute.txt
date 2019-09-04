@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\picCombine\bin\Debug\picCombine.exe
+C:\myProgram\dotnet\picCombine\bin\Debug\picCombine.pdb
+C:\myProgram\dotnet\picCombine\bin\Debug\picCombine.xml
+C:\myProgram\dotnet\picCombine\obj\x86\Debug\picCombine.Form1.resources
+C:\myProgram\dotnet\picCombine\obj\x86\Debug\picCombine.Resources.resources
+C:\myProgram\dotnet\picCombine\obj\x86\Debug\picCombine.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\picCombine\obj\x86\Debug\picCombine.exe
+C:\myProgram\dotnet\picCombine\obj\x86\Debug\picCombine.xml
+C:\myProgram\dotnet\picCombine\obj\x86\Debug\picCombine.pdb

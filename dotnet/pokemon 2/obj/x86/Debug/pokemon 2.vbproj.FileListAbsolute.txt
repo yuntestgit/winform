@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\pokemon 2\bin\Debug\pokemon 2.exe
+C:\myProgram\dotnet\pokemon 2\bin\Debug\pokemon 2.pdb
+C:\myProgram\dotnet\pokemon 2\bin\Debug\pokemon 2.xml
+C:\myProgram\dotnet\pokemon 2\obj\x86\Debug\pokemon_2.Resources.resources
+C:\myProgram\dotnet\pokemon 2\obj\x86\Debug\pokemon 2.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\pokemon 2\obj\x86\Debug\pokemon 2.exe
+C:\myProgram\dotnet\pokemon 2\obj\x86\Debug\pokemon 2.xml
+C:\myProgram\dotnet\pokemon 2\obj\x86\Debug\pokemon 2.pdb
+C:\myProgram\dotnet\pokemon 2\obj\x86\Debug\pokemon_2.Form1.resources

@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\opendir\bin\Debug\opendir.exe
+C:\myprogram\dotnet\opendir\bin\Debug\opendir.pdb
+C:\myprogram\dotnet\opendir\bin\Debug\opendir.xml
+C:\myprogram\dotnet\opendir\obj\x86\Debug\opendir.Form1.resources
+C:\myprogram\dotnet\opendir\obj\x86\Debug\opendir.Resources.resources
+C:\myprogram\dotnet\opendir\obj\x86\Debug\opendir.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\opendir\obj\x86\Debug\opendir.exe
+C:\myprogram\dotnet\opendir\obj\x86\Debug\opendir.xml
+C:\myprogram\dotnet\opendir\obj\x86\Debug\opendir.pdb

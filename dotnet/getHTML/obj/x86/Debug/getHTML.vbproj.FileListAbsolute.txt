@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\getHTML\bin\Debug\getHTML.exe
+C:\myprogram\dotnet\getHTML\bin\Debug\getHTML.pdb
+C:\myprogram\dotnet\getHTML\bin\Debug\getHTML.xml
+C:\myprogram\dotnet\getHTML\obj\x86\Debug\getHTML.Form1.resources
+C:\myprogram\dotnet\getHTML\obj\x86\Debug\getHTML.Resources.resources
+C:\myprogram\dotnet\getHTML\obj\x86\Debug\getHTML.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\getHTML\obj\x86\Debug\getHTML.exe
+C:\myprogram\dotnet\getHTML\obj\x86\Debug\getHTML.xml
+C:\myprogram\dotnet\getHTML\obj\x86\Debug\getHTML.pdb

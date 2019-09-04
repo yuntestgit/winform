@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\GFwindow\bin\Debug\GFwindow.exe
+C:\myProgram\dotnet\GFwindow\bin\Debug\GFwindow.pdb
+C:\myProgram\dotnet\GFwindow\bin\Debug\GFwindow.xml
+C:\myProgram\dotnet\GFwindow\obj\x86\Debug\GFwindow.Resources.resources
+C:\myProgram\dotnet\GFwindow\obj\x86\Debug\GFwindow.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\GFwindow\obj\x86\Debug\GFwindow.exe
+C:\myProgram\dotnet\GFwindow\obj\x86\Debug\GFwindow.xml
+C:\myProgram\dotnet\GFwindow\obj\x86\Debug\GFwindow.pdb
+C:\myProgram\dotnet\GFwindow\obj\x86\Debug\GFwindow.Form1.resources

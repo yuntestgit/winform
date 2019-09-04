@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\GrandFantasia\bin\Debug\GrandFantasia.exe
+C:\myProgram\dotnet\GrandFantasia\bin\Debug\GrandFantasia.pdb
+C:\myProgram\dotnet\GrandFantasia\bin\Debug\GrandFantasia.xml
+C:\myProgram\dotnet\GrandFantasia\obj\x86\Debug\GrandFantasia.Form1.resources
+C:\myProgram\dotnet\GrandFantasia\obj\x86\Debug\GrandFantasia.Resources.resources
+C:\myProgram\dotnet\GrandFantasia\obj\x86\Debug\GrandFantasia.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\GrandFantasia\obj\x86\Debug\GrandFantasia.exe
+C:\myProgram\dotnet\GrandFantasia\obj\x86\Debug\GrandFantasia.xml
+C:\myProgram\dotnet\GrandFantasia\obj\x86\Debug\GrandFantasia.pdb

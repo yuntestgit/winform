@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\testCall\bin\Debug\testCall.exe
+C:\myprogram\dotnet\testCall\bin\Debug\testCall.pdb
+C:\myprogram\dotnet\testCall\bin\Debug\testCall.xml
+C:\myprogram\dotnet\testCall\obj\x86\Debug\testCall.Form1.resources
+C:\myprogram\dotnet\testCall\obj\x86\Debug\testCall.Resources.resources
+C:\myprogram\dotnet\testCall\obj\x86\Debug\testCall.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\testCall\obj\x86\Debug\testCall.exe
+C:\myprogram\dotnet\testCall\obj\x86\Debug\testCall.xml
+C:\myprogram\dotnet\testCall\obj\x86\Debug\testCall.pdb

@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\LOLwindow\bin\Debug\LOLwindow.exe
+C:\myProgram\dotnet\LOLwindow\bin\Debug\LOLwindow.pdb
+C:\myProgram\dotnet\LOLwindow\bin\Debug\LOLwindow.xml
+C:\myProgram\dotnet\LOLwindow\obj\x86\Debug\LOLwindow.Form1.resources
+C:\myProgram\dotnet\LOLwindow\obj\x86\Debug\LOLwindow.Resources.resources
+C:\myProgram\dotnet\LOLwindow\obj\x86\Debug\LOLwindow.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\LOLwindow\obj\x86\Debug\LOLwindow.exe
+C:\myProgram\dotnet\LOLwindow\obj\x86\Debug\LOLwindow.xml
+C:\myProgram\dotnet\LOLwindow\obj\x86\Debug\LOLwindow.pdb

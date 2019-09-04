@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\cursor locker\bin\Debug\cursor locker.exe
+C:\myProgram\dotnet\cursor locker\bin\Debug\cursor locker.pdb
+C:\myProgram\dotnet\cursor locker\bin\Debug\cursor locker.xml
+C:\myProgram\dotnet\cursor locker\obj\x86\Debug\cursor_locker.Form1.resources
+C:\myProgram\dotnet\cursor locker\obj\x86\Debug\cursor_locker.Resources.resources
+C:\myProgram\dotnet\cursor locker\obj\x86\Debug\cursor locker.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\cursor locker\obj\x86\Debug\cursor locker.exe
+C:\myProgram\dotnet\cursor locker\obj\x86\Debug\cursor locker.xml
+C:\myProgram\dotnet\cursor locker\obj\x86\Debug\cursor locker.pdb

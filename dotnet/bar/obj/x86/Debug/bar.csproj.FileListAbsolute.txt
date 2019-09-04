@@ -1,0 +1,7 @@
+C:\myProgram\dotnet\bar\bin\Debug\bar.exe
+C:\myProgram\dotnet\bar\bin\Debug\bar.pdb
+C:\myProgram\dotnet\bar\obj\x86\Debug\bar.Form1.resources
+C:\myProgram\dotnet\bar\obj\x86\Debug\bar.Properties.Resources.resources
+C:\myProgram\dotnet\bar\obj\x86\Debug\bar.csproj.GenerateResource.Cache
+C:\myProgram\dotnet\bar\obj\x86\Debug\bar.exe
+C:\myProgram\dotnet\bar\obj\x86\Debug\bar.pdb

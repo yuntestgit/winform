@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\san9\bin\Debug\san9.exe
+C:\myProgram\dotnet\san9\bin\Debug\san9.pdb
+C:\myProgram\dotnet\san9\bin\Debug\san9.xml
+C:\myProgram\dotnet\san9\obj\x86\Debug\san9.Form1.resources
+C:\myProgram\dotnet\san9\obj\x86\Debug\san9.Resources.resources
+C:\myProgram\dotnet\san9\obj\x86\Debug\san9.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\san9\obj\x86\Debug\san9.exe
+C:\myProgram\dotnet\san9\obj\x86\Debug\san9.xml
+C:\myProgram\dotnet\san9\obj\x86\Debug\san9.pdb

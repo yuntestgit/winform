@@ -1,0 +1,4 @@
+C:\myProgram\dotnet\ClassLibraryDemo\bin\Debug\ClassLibraryDemo.dll
+C:\myProgram\dotnet\ClassLibraryDemo\bin\Debug\ClassLibraryDemo.pdb
+C:\myProgram\dotnet\ClassLibraryDemo\obj\Debug\ClassLibraryDemo.dll
+C:\myProgram\dotnet\ClassLibraryDemo\obj\Debug\ClassLibraryDemo.pdb

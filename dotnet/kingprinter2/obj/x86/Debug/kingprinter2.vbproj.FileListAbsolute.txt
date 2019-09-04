@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\kingprinter2\bin\Debug\kingprinter2.exe
+C:\myProgram\dotnet\kingprinter2\bin\Debug\kingprinter2.pdb
+C:\myProgram\dotnet\kingprinter2\bin\Debug\kingprinter2.xml
+C:\myProgram\dotnet\kingprinter2\obj\x86\Debug\kingprinter2.Form1.resources
+C:\myProgram\dotnet\kingprinter2\obj\x86\Debug\kingprinter2.Resources.resources
+C:\myProgram\dotnet\kingprinter2\obj\x86\Debug\kingprinter2.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\kingprinter2\obj\x86\Debug\kingprinter2.exe
+C:\myProgram\dotnet\kingprinter2\obj\x86\Debug\kingprinter2.xml
+C:\myProgram\dotnet\kingprinter2\obj\x86\Debug\kingprinter2.pdb

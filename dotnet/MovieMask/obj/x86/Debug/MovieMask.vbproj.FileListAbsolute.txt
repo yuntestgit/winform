@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\MovieMask\bin\Debug\MovieMask.exe
+C:\myProgram\dotnet\MovieMask\bin\Debug\MovieMask.pdb
+C:\myProgram\dotnet\MovieMask\bin\Debug\MovieMask.xml
+C:\myProgram\dotnet\MovieMask\obj\x86\Debug\MovieMask.Form1.resources
+C:\myProgram\dotnet\MovieMask\obj\x86\Debug\MovieMask.Resources.resources
+C:\myProgram\dotnet\MovieMask\obj\x86\Debug\MovieMask.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\MovieMask\obj\x86\Debug\MovieMask.exe
+C:\myProgram\dotnet\MovieMask\obj\x86\Debug\MovieMask.xml
+C:\myProgram\dotnet\MovieMask\obj\x86\Debug\MovieMask.pdb

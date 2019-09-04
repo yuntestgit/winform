@@ -1,0 +1,11 @@
+C:\myProgram\dotnet\dm test\bin\Debug\dm test.exe
+C:\myProgram\dotnet\dm test\bin\Debug\dm test.pdb
+C:\myProgram\dotnet\dm test\bin\Debug\dm test.xml
+C:\myProgram\dotnet\dm test\obj\x86\Debug\dm_test.Form1.resources
+C:\myProgram\dotnet\dm test\obj\x86\Debug\dm_test.Resources.resources
+C:\myProgram\dotnet\dm test\obj\x86\Debug\dm test.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\dm test\obj\x86\Debug\dm test.exe
+C:\myProgram\dotnet\dm test\obj\x86\Debug\dm test.xml
+C:\myProgram\dotnet\dm test\obj\x86\Debug\dm test.pdb
+C:\myProgram\dotnet\dm test\obj\x86\Debug\Interop.Dm.dll
+C:\myProgram\dotnet\dm test\obj\x86\Debug\dm test.vbproj.ResolveComReference.cache

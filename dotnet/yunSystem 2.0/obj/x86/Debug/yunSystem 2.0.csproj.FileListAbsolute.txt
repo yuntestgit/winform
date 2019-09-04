@@ -1,0 +1,6 @@
+C:\myProgram\dotnet\yunSystem 2.0\bin\Debug\yunSystem 2.0.exe
+C:\myProgram\dotnet\yunSystem 2.0\bin\Debug\yunSystem 2.0.pdb
+C:\myProgram\dotnet\yunSystem 2.0\obj\x86\Debug\yunSystem_2._0.Properties.Resources.resources
+C:\myProgram\dotnet\yunSystem 2.0\obj\x86\Debug\yunSystem 2.0.csproj.GenerateResource.Cache
+C:\myProgram\dotnet\yunSystem 2.0\obj\x86\Debug\yunSystem 2.0.exe
+C:\myProgram\dotnet\yunSystem 2.0\obj\x86\Debug\yunSystem 2.0.pdb

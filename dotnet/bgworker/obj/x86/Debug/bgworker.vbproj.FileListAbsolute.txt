@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\bgworker\bin\Debug\bgworker.exe
+C:\myProgram\dotnet\bgworker\bin\Debug\bgworker.pdb
+C:\myProgram\dotnet\bgworker\bin\Debug\bgworker.xml
+C:\myProgram\dotnet\bgworker\obj\x86\Debug\bgworker.Form1.resources
+C:\myProgram\dotnet\bgworker\obj\x86\Debug\bgworker.Resources.resources
+C:\myProgram\dotnet\bgworker\obj\x86\Debug\bgworker.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\bgworker\obj\x86\Debug\bgworker.exe
+C:\myProgram\dotnet\bgworker\obj\x86\Debug\bgworker.xml
+C:\myProgram\dotnet\bgworker\obj\x86\Debug\bgworker.pdb

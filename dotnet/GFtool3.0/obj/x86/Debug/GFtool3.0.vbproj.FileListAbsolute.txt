@@ -1,0 +1,11 @@
+C:\myProgram\dotnet\GFtool3.0\bin\Debug\GFtool3.0.exe
+C:\myProgram\dotnet\GFtool3.0\bin\Debug\GFtool3.0.pdb
+C:\myProgram\dotnet\GFtool3.0\bin\Debug\GFtool3.0.xml
+C:\myProgram\dotnet\GFtool3.0\obj\x86\Debug\GFtool3._0.Resources.resources
+C:\myProgram\dotnet\GFtool3.0\obj\x86\Debug\GFtool3.0.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\GFtool3.0\obj\x86\Debug\GFtool3.0.exe
+C:\myProgram\dotnet\GFtool3.0\obj\x86\Debug\GFtool3.0.xml
+C:\myProgram\dotnet\GFtool3.0\obj\x86\Debug\GFtool3.0.pdb
+C:\myProgram\dotnet\GFtool3.0\obj\x86\Debug\Interop.Dm.dll
+C:\myProgram\dotnet\GFtool3.0\obj\x86\Debug\GFtool3.0.vbproj.ResolveComReference.cache
+C:\myProgram\dotnet\GFtool3.0\obj\x86\Debug\GFtool3._0.Form1.resources

@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\mouse_event\bin\Debug\mouse_event.exe
+C:\myprogram\dotnet\mouse_event\bin\Debug\mouse_event.pdb
+C:\myprogram\dotnet\mouse_event\bin\Debug\mouse_event.xml
+C:\myprogram\dotnet\mouse_event\obj\x86\Debug\mouse_event.Form1.resources
+C:\myprogram\dotnet\mouse_event\obj\x86\Debug\mouse_event.Resources.resources
+C:\myprogram\dotnet\mouse_event\obj\x86\Debug\mouse_event.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\mouse_event\obj\x86\Debug\mouse_event.exe
+C:\myprogram\dotnet\mouse_event\obj\x86\Debug\mouse_event.xml
+C:\myprogram\dotnet\mouse_event\obj\x86\Debug\mouse_event.pdb

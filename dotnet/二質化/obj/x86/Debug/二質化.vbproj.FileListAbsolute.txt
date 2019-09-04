@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\二質化\bin\Debug\二質化.exe
+C:\myProgram\dotnet\二質化\bin\Debug\二質化.pdb
+C:\myProgram\dotnet\二質化\bin\Debug\二質化.xml
+C:\myProgram\dotnet\二質化\obj\x86\Debug\二質化.Form1.resources
+C:\myProgram\dotnet\二質化\obj\x86\Debug\二質化.Resources.resources
+C:\myProgram\dotnet\二質化\obj\x86\Debug\二質化.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\二質化\obj\x86\Debug\二質化.exe
+C:\myProgram\dotnet\二質化\obj\x86\Debug\二質化.xml
+C:\myProgram\dotnet\二質化\obj\x86\Debug\二質化.pdb

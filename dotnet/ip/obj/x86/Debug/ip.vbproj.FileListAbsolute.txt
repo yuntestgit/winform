@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\ip\bin\Debug\ip.exe
+C:\myProgram\dotnet\ip\bin\Debug\ip.pdb
+C:\myProgram\dotnet\ip\bin\Debug\ip.xml
+C:\myProgram\dotnet\ip\obj\x86\Debug\ip.Form1.resources
+C:\myProgram\dotnet\ip\obj\x86\Debug\ip.Resources.resources
+C:\myProgram\dotnet\ip\obj\x86\Debug\ip.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\ip\obj\x86\Debug\ip.exe
+C:\myProgram\dotnet\ip\obj\x86\Debug\ip.xml
+C:\myProgram\dotnet\ip\obj\x86\Debug\ip.pdb

@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\comic 2.150220\bin\Debug\comic 2.150220.exe
+C:\myprogram\dotnet\comic 2.150220\bin\Debug\comic 2.150220.pdb
+C:\myprogram\dotnet\comic 2.150220\bin\Debug\comic 2.150220.xml
+C:\myprogram\dotnet\comic 2.150220\obj\x86\Debug\comic_2._150220.Form1.resources
+C:\myprogram\dotnet\comic 2.150220\obj\x86\Debug\comic_2._150220.Resources.resources
+C:\myprogram\dotnet\comic 2.150220\obj\x86\Debug\comic 2.150220.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\comic 2.150220\obj\x86\Debug\comic 2.150220.exe
+C:\myprogram\dotnet\comic 2.150220\obj\x86\Debug\comic 2.150220.xml
+C:\myprogram\dotnet\comic 2.150220\obj\x86\Debug\comic 2.150220.pdb

@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\htmlstructure\bin\Debug\htmlstructure.exe
+C:\myprogram\dotnet\htmlstructure\bin\Debug\htmlstructure.pdb
+C:\myprogram\dotnet\htmlstructure\bin\Debug\htmlstructure.xml
+C:\myprogram\dotnet\htmlstructure\obj\x86\Debug\htmlstructure.Form1.resources
+C:\myprogram\dotnet\htmlstructure\obj\x86\Debug\htmlstructure.Resources.resources
+C:\myprogram\dotnet\htmlstructure\obj\x86\Debug\htmlstructure.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\htmlstructure\obj\x86\Debug\htmlstructure.exe
+C:\myprogram\dotnet\htmlstructure\obj\x86\Debug\htmlstructure.xml
+C:\myprogram\dotnet\htmlstructure\obj\x86\Debug\htmlstructure.pdb

@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\virtaulmouse\bin\Debug\virtaulmouse.exe
+C:\myProgram\dotnet\virtaulmouse\bin\Debug\virtaulmouse.pdb
+C:\myProgram\dotnet\virtaulmouse\bin\Debug\virtaulmouse.xml
+C:\myProgram\dotnet\virtaulmouse\obj\x86\Debug\virtaulmouse.Form1.resources
+C:\myProgram\dotnet\virtaulmouse\obj\x86\Debug\virtaulmouse.Resources.resources
+C:\myProgram\dotnet\virtaulmouse\obj\x86\Debug\virtaulmouse.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\virtaulmouse\obj\x86\Debug\virtaulmouse.exe
+C:\myProgram\dotnet\virtaulmouse\obj\x86\Debug\virtaulmouse.xml
+C:\myProgram\dotnet\virtaulmouse\obj\x86\Debug\virtaulmouse.pdb

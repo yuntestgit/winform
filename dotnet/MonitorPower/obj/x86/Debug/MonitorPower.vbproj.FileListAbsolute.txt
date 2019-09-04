@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\MonitorPower\bin\Debug\MonitorPower.exe
+C:\myprogram\dotnet\MonitorPower\bin\Debug\MonitorPower.pdb
+C:\myprogram\dotnet\MonitorPower\bin\Debug\MonitorPower.xml
+C:\myprogram\dotnet\MonitorPower\obj\x86\Debug\MonitorPower.Form1.resources
+C:\myprogram\dotnet\MonitorPower\obj\x86\Debug\MonitorPower.Resources.resources
+C:\myprogram\dotnet\MonitorPower\obj\x86\Debug\MonitorPower.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\MonitorPower\obj\x86\Debug\MonitorPower.exe
+C:\myprogram\dotnet\MonitorPower\obj\x86\Debug\MonitorPower.xml
+C:\myprogram\dotnet\MonitorPower\obj\x86\Debug\MonitorPower.pdb

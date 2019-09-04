@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\tsum2\bin\Debug\tsum2.exe
+C:\myProgram\dotnet\tsum2\bin\Debug\tsum2.pdb
+C:\myProgram\dotnet\tsum2\bin\Debug\tsum2.xml
+C:\myProgram\dotnet\tsum2\obj\x86\Debug\tsum2.Form1.resources
+C:\myProgram\dotnet\tsum2\obj\x86\Debug\tsum2.Resources.resources
+C:\myProgram\dotnet\tsum2\obj\x86\Debug\tsum2.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\tsum2\obj\x86\Debug\tsum2.exe
+C:\myProgram\dotnet\tsum2\obj\x86\Debug\tsum2.xml
+C:\myProgram\dotnet\tsum2\obj\x86\Debug\tsum2.pdb

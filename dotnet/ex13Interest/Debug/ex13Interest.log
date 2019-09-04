@@ -1,0 +1,30 @@
+﻿已經開始建置於 2015/2/19 下午 05:14:34。
+     1>節點 2 (build 目標) 上的專案 "C:\myProgram\dotnet\ex13Interest\ex13Interest.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Debug\ex13Interest.unsuccessfulbuild"。
+       GenerateTargetFrameworkMonikerAttribute:
+       將略過目標 "GenerateTargetFrameworkMonikerAttribute"，因為所有輸出檔對於其輸入檔而言都已更新。
+       ClCompile:
+         所有輸出都是最新的。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\ex13Interest.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt ex13Interest.cpp /clr:nostdlib 
+         ex13Interest.cpp
+         所有輸出都是最新的。
+       ResourceCompile:
+         所有輸出都是最新的。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\myProgram\dotnet\ex13Interest\Debug\ex13Interest.dll" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\ex13Interest.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\myProgram\dotnet\ex13Interest\Debug\ex13Interest.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /DLL Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\ex13Interest.obj
+         Debug\Stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         ex13Interest.vcxproj -> C:\myProgram\dotnet\ex13Interest\Debug\ex13Interest.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\myProgram\dotnet\ex13Interest\Debug\ex13Interest.dll;#2" /manifest Debug\ex13Interest.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         正在刪除檔案 "Debug\ex13Interest.unsuccessfulbuild"。
+         正在變更時間戳記 "Debug\ex13Interest.lastbuildstate"。
+     1>專案 "C:\myProgram\dotnet\ex13Interest\ex13Interest.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.52

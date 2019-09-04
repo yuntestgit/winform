@@ -1,0 +1,8 @@
+C:\myProgram\dotnet\cShapOOP\bin\Debug\cShapOOP.exe
+C:\myProgram\dotnet\cShapOOP\bin\Debug\cShapOOP.pdb
+C:\myProgram\dotnet\cShapOOP\obj\x86\Debug\cShapOOP.Form1.resources
+C:\myProgram\dotnet\cShapOOP\obj\x86\Debug\cShapOOP.Properties.Resources.resources
+C:\myProgram\dotnet\cShapOOP\obj\x86\Debug\cShapOOP.csproj.GenerateResource.Cache
+C:\myProgram\dotnet\cShapOOP\obj\x86\Debug\cShapOOP.exe
+C:\myProgram\dotnet\cShapOOP\obj\x86\Debug\cShapOOP.pdb
+C:\myProgram\dotnet\cShapOOP\obj\x86\Debug\cShapOOP.csprojResolveAssemblyReference.cache

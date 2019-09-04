@@ -1,0 +1,8 @@
+C:\myprogram\dotnet\webSupporter\bin\Debug\webSupporter.exe
+C:\myprogram\dotnet\webSupporter\bin\Debug\webSupporter.pdb
+C:\myprogram\dotnet\webSupporter\bin\Debug\webSupporter.xml
+C:\myprogram\dotnet\webSupporter\obj\x86\Debug\webSupporter.Resources.resources
+C:\myprogram\dotnet\webSupporter\obj\x86\Debug\webSupporter.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\webSupporter\obj\x86\Debug\webSupporter.exe
+C:\myprogram\dotnet\webSupporter\obj\x86\Debug\webSupporter.xml
+C:\myprogram\dotnet\webSupporter\obj\x86\Debug\webSupporter.pdb

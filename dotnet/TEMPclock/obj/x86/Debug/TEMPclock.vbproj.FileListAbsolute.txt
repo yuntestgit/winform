@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\TEMPclock\bin\Debug\TEMPclock.exe
+C:\myprogram\dotnet\TEMPclock\bin\Debug\TEMPclock.pdb
+C:\myprogram\dotnet\TEMPclock\bin\Debug\TEMPclock.xml
+C:\myprogram\dotnet\TEMPclock\obj\x86\Debug\TEMPclock.Form1.resources
+C:\myprogram\dotnet\TEMPclock\obj\x86\Debug\TEMPclock.Resources.resources
+C:\myprogram\dotnet\TEMPclock\obj\x86\Debug\TEMPclock.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\TEMPclock\obj\x86\Debug\TEMPclock.exe
+C:\myprogram\dotnet\TEMPclock\obj\x86\Debug\TEMPclock.xml
+C:\myprogram\dotnet\TEMPclock\obj\x86\Debug\TEMPclock.pdb

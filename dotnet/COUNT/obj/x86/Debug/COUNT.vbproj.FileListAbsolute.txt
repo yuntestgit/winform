@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\COUNT\bin\Debug\COUNT.exe
+C:\myProgram\dotnet\COUNT\bin\Debug\COUNT.pdb
+C:\myProgram\dotnet\COUNT\bin\Debug\COUNT.xml
+C:\myProgram\dotnet\COUNT\obj\x86\Debug\COUNT.Form1.resources
+C:\myProgram\dotnet\COUNT\obj\x86\Debug\COUNT.Resources.resources
+C:\myProgram\dotnet\COUNT\obj\x86\Debug\COUNT.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\COUNT\obj\x86\Debug\COUNT.exe
+C:\myProgram\dotnet\COUNT\obj\x86\Debug\COUNT.xml
+C:\myProgram\dotnet\COUNT\obj\x86\Debug\COUNT.pdb

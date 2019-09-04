@@ -1,0 +1,9 @@
+C:\myProgram\c\CookieRun 3.0\bin\Debug\CookieRun 3.0.exe
+C:\myProgram\c\CookieRun 3.0\bin\Debug\CookieRun 3.0.pdb
+C:\myProgram\c\CookieRun 3.0\bin\Debug\CookieRun 3.0.xml
+C:\myProgram\c\CookieRun 3.0\obj\x86\Debug\CookieRun_3._0.Form1.resources
+C:\myProgram\c\CookieRun 3.0\obj\x86\Debug\CookieRun_3._0.Resources.resources
+C:\myProgram\c\CookieRun 3.0\obj\x86\Debug\CookieRun 3.0.vbproj.GenerateResource.Cache
+C:\myProgram\c\CookieRun 3.0\obj\x86\Debug\CookieRun 3.0.exe
+C:\myProgram\c\CookieRun 3.0\obj\x86\Debug\CookieRun 3.0.xml
+C:\myProgram\c\CookieRun 3.0\obj\x86\Debug\CookieRun 3.0.pdb

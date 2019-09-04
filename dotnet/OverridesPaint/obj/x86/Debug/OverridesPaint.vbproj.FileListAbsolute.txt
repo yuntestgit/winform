@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\OverridesPaint\bin\Debug\OverridesPaint.exe
+C:\myProgram\dotnet\OverridesPaint\bin\Debug\OverridesPaint.pdb
+C:\myProgram\dotnet\OverridesPaint\bin\Debug\OverridesPaint.xml
+C:\myProgram\dotnet\OverridesPaint\obj\x86\Debug\OverridesPaint.Form1.resources
+C:\myProgram\dotnet\OverridesPaint\obj\x86\Debug\OverridesPaint.Resources.resources
+C:\myProgram\dotnet\OverridesPaint\obj\x86\Debug\OverridesPaint.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\OverridesPaint\obj\x86\Debug\OverridesPaint.exe
+C:\myProgram\dotnet\OverridesPaint\obj\x86\Debug\OverridesPaint.xml
+C:\myProgram\dotnet\OverridesPaint\obj\x86\Debug\OverridesPaint.pdb

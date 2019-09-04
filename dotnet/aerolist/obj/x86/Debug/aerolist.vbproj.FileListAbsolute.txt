@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\aerolist\bin\Debug\aerolist.exe
+C:\myProgram\dotnet\aerolist\bin\Debug\aerolist.pdb
+C:\myProgram\dotnet\aerolist\bin\Debug\aerolist.xml
+C:\myProgram\dotnet\aerolist\obj\x86\Debug\aerolist.Form1.resources
+C:\myProgram\dotnet\aerolist\obj\x86\Debug\aerolist.Resources.resources
+C:\myProgram\dotnet\aerolist\obj\x86\Debug\aerolist.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\aerolist\obj\x86\Debug\aerolist.exe
+C:\myProgram\dotnet\aerolist\obj\x86\Debug\aerolist.xml
+C:\myProgram\dotnet\aerolist\obj\x86\Debug\aerolist.pdb

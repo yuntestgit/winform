@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\deletefile\bin\Debug\deletefile.exe
+C:\myProgram\dotnet\deletefile\bin\Debug\deletefile.pdb
+C:\myProgram\dotnet\deletefile\bin\Debug\deletefile.xml
+C:\myProgram\dotnet\deletefile\obj\x86\Debug\deletefile.Form1.resources
+C:\myProgram\dotnet\deletefile\obj\x86\Debug\deletefile.Resources.resources
+C:\myProgram\dotnet\deletefile\obj\x86\Debug\deletefile.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\deletefile\obj\x86\Debug\deletefile.exe
+C:\myProgram\dotnet\deletefile\obj\x86\Debug\deletefile.xml
+C:\myProgram\dotnet\deletefile\obj\x86\Debug\deletefile.pdb

@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\skin1\bin\Debug\skin1.exe
+C:\myprogram\dotnet\skin1\bin\Debug\skin1.pdb
+C:\myprogram\dotnet\skin1\bin\Debug\skin1.xml
+C:\myprogram\dotnet\skin1\obj\x86\Debug\skin1.Form1.resources
+C:\myprogram\dotnet\skin1\obj\x86\Debug\skin1.Resources.resources
+C:\myprogram\dotnet\skin1\obj\x86\Debug\skin1.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\skin1\obj\x86\Debug\skin1.exe
+C:\myprogram\dotnet\skin1\obj\x86\Debug\skin1.xml
+C:\myprogram\dotnet\skin1\obj\x86\Debug\skin1.pdb

@@ -1,0 +1,4 @@
+C:\myProgram\dotnet\cshaplib2\bin\Debug\cshaplib2.dll
+C:\myProgram\dotnet\cshaplib2\bin\Debug\cshaplib2.pdb
+C:\myProgram\dotnet\cshaplib2\obj\Debug\cshaplib2.dll
+C:\myProgram\dotnet\cshaplib2\obj\Debug\cshaplib2.pdb

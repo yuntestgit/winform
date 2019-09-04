@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\inject\bin\Debug\inject.exe
+C:\myProgram\dotnet\inject\bin\Debug\inject.pdb
+C:\myProgram\dotnet\inject\bin\Debug\inject.xml
+C:\myProgram\dotnet\inject\obj\x86\Debug\inject.Form1.resources
+C:\myProgram\dotnet\inject\obj\x86\Debug\inject.Resources.resources
+C:\myProgram\dotnet\inject\obj\x86\Debug\inject.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\inject\obj\x86\Debug\inject.exe
+C:\myProgram\dotnet\inject\obj\x86\Debug\inject.xml
+C:\myProgram\dotnet\inject\obj\x86\Debug\inject.pdb

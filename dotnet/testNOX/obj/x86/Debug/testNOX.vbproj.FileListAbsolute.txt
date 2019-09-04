@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\testNOX\bin\Debug\testNOX.exe
+C:\myProgram\dotnet\testNOX\bin\Debug\testNOX.pdb
+C:\myProgram\dotnet\testNOX\bin\Debug\testNOX.xml
+C:\myProgram\dotnet\testNOX\obj\x86\Debug\testNOX.Form1.resources
+C:\myProgram\dotnet\testNOX\obj\x86\Debug\testNOX.Resources.resources
+C:\myProgram\dotnet\testNOX\obj\x86\Debug\testNOX.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\testNOX\obj\x86\Debug\testNOX.exe
+C:\myProgram\dotnet\testNOX\obj\x86\Debug\testNOX.xml
+C:\myProgram\dotnet\testNOX\obj\x86\Debug\testNOX.pdb

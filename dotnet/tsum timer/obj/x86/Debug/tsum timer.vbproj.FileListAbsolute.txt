@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\tsum timer\bin\Debug\tsum timer.exe
+C:\myProgram\dotnet\tsum timer\bin\Debug\tsum timer.pdb
+C:\myProgram\dotnet\tsum timer\bin\Debug\tsum timer.xml
+C:\myProgram\dotnet\tsum timer\obj\x86\Debug\tsum_timer.Form1.resources
+C:\myProgram\dotnet\tsum timer\obj\x86\Debug\tsum_timer.Resources.resources
+C:\myProgram\dotnet\tsum timer\obj\x86\Debug\tsum timer.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\tsum timer\obj\x86\Debug\tsum timer.exe
+C:\myProgram\dotnet\tsum timer\obj\x86\Debug\tsum timer.xml
+C:\myProgram\dotnet\tsum timer\obj\x86\Debug\tsum timer.pdb

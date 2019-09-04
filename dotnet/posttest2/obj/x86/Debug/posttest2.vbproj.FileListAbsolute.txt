@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\posttest2\bin\Debug\posttest2.exe
+C:\myProgram\dotnet\posttest2\bin\Debug\posttest2.pdb
+C:\myProgram\dotnet\posttest2\bin\Debug\posttest2.xml
+C:\myProgram\dotnet\posttest2\obj\x86\Debug\posttest2.Form1.resources
+C:\myProgram\dotnet\posttest2\obj\x86\Debug\posttest2.Resources.resources
+C:\myProgram\dotnet\posttest2\obj\x86\Debug\posttest2.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\posttest2\obj\x86\Debug\posttest2.exe
+C:\myProgram\dotnet\posttest2\obj\x86\Debug\posttest2.xml
+C:\myProgram\dotnet\posttest2\obj\x86\Debug\posttest2.pdb

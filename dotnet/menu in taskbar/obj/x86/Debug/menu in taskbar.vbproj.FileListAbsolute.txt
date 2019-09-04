@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\menu in taskbar\bin\Debug\menu in taskbar.exe
+C:\myprogram\dotnet\menu in taskbar\bin\Debug\menu in taskbar.pdb
+C:\myprogram\dotnet\menu in taskbar\bin\Debug\menu in taskbar.xml
+C:\myprogram\dotnet\menu in taskbar\obj\x86\Debug\menu_in_taskbar.Form1.resources
+C:\myprogram\dotnet\menu in taskbar\obj\x86\Debug\menu_in_taskbar.Resources.resources
+C:\myprogram\dotnet\menu in taskbar\obj\x86\Debug\menu in taskbar.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\menu in taskbar\obj\x86\Debug\menu in taskbar.exe
+C:\myprogram\dotnet\menu in taskbar\obj\x86\Debug\menu in taskbar.xml
+C:\myprogram\dotnet\menu in taskbar\obj\x86\Debug\menu in taskbar.pdb

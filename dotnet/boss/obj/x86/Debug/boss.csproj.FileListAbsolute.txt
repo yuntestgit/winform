@@ -1,0 +1,4 @@
+C:\myprogram\dotnet\boss\bin\Debug\boss.exe
+C:\myprogram\dotnet\boss\bin\Debug\boss.pdb
+C:\myprogram\dotnet\boss\obj\x86\Debug\boss.exe
+C:\myprogram\dotnet\boss\obj\x86\Debug\boss.pdb

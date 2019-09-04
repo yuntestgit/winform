@@ -1,0 +1,7 @@
+C:\myProgram\dotnet\RCcloser\bin\Debug\RCcloser.exe
+C:\myProgram\dotnet\RCcloser\bin\Debug\RCcloser.pdb
+C:\myProgram\dotnet\RCcloser\obj\x86\Debug\RCcloser.Form1.resources
+C:\myProgram\dotnet\RCcloser\obj\x86\Debug\RCcloser.Properties.Resources.resources
+C:\myProgram\dotnet\RCcloser\obj\x86\Debug\RCcloser.csproj.GenerateResource.Cache
+C:\myProgram\dotnet\RCcloser\obj\x86\Debug\RCcloser.exe
+C:\myProgram\dotnet\RCcloser\obj\x86\Debug\RCcloser.pdb

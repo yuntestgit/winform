@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\drawstring\bin\Debug\drawstring.exe
+C:\myprogram\dotnet\drawstring\bin\Debug\drawstring.pdb
+C:\myprogram\dotnet\drawstring\bin\Debug\drawstring.xml
+C:\myprogram\dotnet\drawstring\obj\x86\Debug\drawstring.Resources.resources
+C:\myprogram\dotnet\drawstring\obj\x86\Debug\drawstring.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\drawstring\obj\x86\Debug\drawstring.exe
+C:\myprogram\dotnet\drawstring\obj\x86\Debug\drawstring.xml
+C:\myprogram\dotnet\drawstring\obj\x86\Debug\drawstring.pdb
+C:\myprogram\dotnet\drawstring\obj\x86\Debug\drawstring.Form1.resources

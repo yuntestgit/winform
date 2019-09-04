@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\comic 4\bin\Debug\comic 4.exe
+C:\myprogram\dotnet\comic 4\bin\Debug\comic 4.pdb
+C:\myprogram\dotnet\comic 4\bin\Debug\comic 4.xml
+C:\myprogram\dotnet\comic 4\obj\x86\Debug\comic_4.Resources.resources
+C:\myprogram\dotnet\comic 4\obj\x86\Debug\comic 4.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\comic 4\obj\x86\Debug\comic 4.exe
+C:\myprogram\dotnet\comic 4\obj\x86\Debug\comic 4.xml
+C:\myprogram\dotnet\comic 4\obj\x86\Debug\comic 4.pdb
+C:\myprogram\dotnet\comic 4\obj\x86\Debug\comic_4.Main.resources

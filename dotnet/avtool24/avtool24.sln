@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "avtool24", "avtool24.csproj", "{DC2D1155-CE2B-402D-84AC-836F481E2528}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC2D1155-CE2B-402D-84AC-836F481E2528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC2D1155-CE2B-402D-84AC-836F481E2528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC2D1155-CE2B-402D-84AC-836F481E2528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC2D1155-CE2B-402D-84AC-836F481E2528}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

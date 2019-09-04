@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\Setparent Desktop\bin\Debug\Setparent Desktop.exe
+C:\myprogram\dotnet\Setparent Desktop\bin\Debug\Setparent Desktop.pdb
+C:\myprogram\dotnet\Setparent Desktop\bin\Debug\Setparent Desktop.xml
+C:\myprogram\dotnet\Setparent Desktop\obj\x86\Debug\Setparent_Desktop.Form1.resources
+C:\myprogram\dotnet\Setparent Desktop\obj\x86\Debug\Setparent_Desktop.Resources.resources
+C:\myprogram\dotnet\Setparent Desktop\obj\x86\Debug\Setparent Desktop.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\Setparent Desktop\obj\x86\Debug\Setparent Desktop.exe
+C:\myprogram\dotnet\Setparent Desktop\obj\x86\Debug\Setparent Desktop.xml
+C:\myprogram\dotnet\Setparent Desktop\obj\x86\Debug\Setparent Desktop.pdb

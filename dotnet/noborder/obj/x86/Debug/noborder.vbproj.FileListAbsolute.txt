@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\noborder\bin\Debug\noborder.exe
+C:\myprogram\dotnet\noborder\bin\Debug\noborder.pdb
+C:\myprogram\dotnet\noborder\bin\Debug\noborder.xml
+C:\myprogram\dotnet\noborder\obj\x86\Debug\noborder.Resources.resources
+C:\myprogram\dotnet\noborder\obj\x86\Debug\noborder.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\noborder\obj\x86\Debug\noborder.exe
+C:\myprogram\dotnet\noborder\obj\x86\Debug\noborder.xml
+C:\myprogram\dotnet\noborder\obj\x86\Debug\noborder.pdb
+C:\myprogram\dotnet\noborder\obj\x86\Debug\noborder.Form1.resources

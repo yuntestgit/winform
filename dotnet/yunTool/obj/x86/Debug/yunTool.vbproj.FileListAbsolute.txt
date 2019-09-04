@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\yunTool\bin\Debug\yunTool.exe
+C:\myprogram\dotnet\yunTool\bin\Debug\yunTool.pdb
+C:\myprogram\dotnet\yunTool\bin\Debug\yunTool.xml
+C:\myprogram\dotnet\yunTool\obj\x86\Debug\yunTool.Resources.resources
+C:\myprogram\dotnet\yunTool\obj\x86\Debug\yunTool.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\yunTool\obj\x86\Debug\yunTool.exe
+C:\myprogram\dotnet\yunTool\obj\x86\Debug\yunTool.xml
+C:\myprogram\dotnet\yunTool\obj\x86\Debug\yunTool.pdb
+C:\myprogram\dotnet\yunTool\obj\x86\Debug\yunTool.Form1.resources

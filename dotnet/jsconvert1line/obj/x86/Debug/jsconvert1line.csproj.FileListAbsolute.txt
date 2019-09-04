@@ -1,0 +1,7 @@
+C:\myProgram\dotnet\jsconvert1line\bin\Debug\jsconvert1line.exe
+C:\myProgram\dotnet\jsconvert1line\bin\Debug\jsconvert1line.pdb
+C:\myProgram\dotnet\jsconvert1line\obj\x86\Debug\jsconvert1line.Form1.resources
+C:\myProgram\dotnet\jsconvert1line\obj\x86\Debug\jsconvert1line.Properties.Resources.resources
+C:\myProgram\dotnet\jsconvert1line\obj\x86\Debug\jsconvert1line.csproj.GenerateResource.Cache
+C:\myProgram\dotnet\jsconvert1line\obj\x86\Debug\jsconvert1line.exe
+C:\myProgram\dotnet\jsconvert1line\obj\x86\Debug\jsconvert1line.pdb

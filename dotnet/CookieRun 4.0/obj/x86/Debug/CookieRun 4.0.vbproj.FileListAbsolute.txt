@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\CookieRun 4.0\bin\Debug\CookieRun 4.0.exe
+C:\myProgram\dotnet\CookieRun 4.0\bin\Debug\CookieRun 4.0.pdb
+C:\myProgram\dotnet\CookieRun 4.0\bin\Debug\CookieRun 4.0.xml
+C:\myProgram\dotnet\CookieRun 4.0\obj\x86\Debug\CookieRun_4._0.Resources.resources
+C:\myProgram\dotnet\CookieRun 4.0\obj\x86\Debug\CookieRun 4.0.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\CookieRun 4.0\obj\x86\Debug\CookieRun 4.0.exe
+C:\myProgram\dotnet\CookieRun 4.0\obj\x86\Debug\CookieRun 4.0.xml
+C:\myProgram\dotnet\CookieRun 4.0\obj\x86\Debug\CookieRun 4.0.pdb
+C:\myProgram\dotnet\CookieRun 4.0\obj\x86\Debug\CookieRun_4._0.Form1.resources

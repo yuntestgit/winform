@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\lolprinter\bin\Debug\lolprinter.exe
+C:\myProgram\dotnet\lolprinter\bin\Debug\lolprinter.pdb
+C:\myProgram\dotnet\lolprinter\bin\Debug\lolprinter.xml
+C:\myProgram\dotnet\lolprinter\obj\x86\Debug\lolprinter.Form1.resources
+C:\myProgram\dotnet\lolprinter\obj\x86\Debug\lolprinter.Resources.resources
+C:\myProgram\dotnet\lolprinter\obj\x86\Debug\lolprinter.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\lolprinter\obj\x86\Debug\lolprinter.exe
+C:\myProgram\dotnet\lolprinter\obj\x86\Debug\lolprinter.xml
+C:\myProgram\dotnet\lolprinter\obj\x86\Debug\lolprinter.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "avtool10", "avtool10.csproj", "{56A7F539-5C7B-45DA-91FB-72ACC5D8B4DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56A7F539-5C7B-45DA-91FB-72ACC5D8B4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A7F539-5C7B-45DA-91FB-72ACC5D8B4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A7F539-5C7B-45DA-91FB-72ACC5D8B4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A7F539-5C7B-45DA-91FB-72ACC5D8B4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

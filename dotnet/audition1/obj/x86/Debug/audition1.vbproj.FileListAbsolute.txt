@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\audition1\bin\Debug\audition1.exe
+C:\myProgram\dotnet\audition1\bin\Debug\audition1.pdb
+C:\myProgram\dotnet\audition1\bin\Debug\audition1.xml
+C:\myProgram\dotnet\audition1\obj\x86\Debug\audition1.Form1.resources
+C:\myProgram\dotnet\audition1\obj\x86\Debug\audition1.Resources.resources
+C:\myProgram\dotnet\audition1\obj\x86\Debug\audition1.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\audition1\obj\x86\Debug\audition1.exe
+C:\myProgram\dotnet\audition1\obj\x86\Debug\audition1.xml
+C:\myProgram\dotnet\audition1\obj\x86\Debug\audition1.pdb

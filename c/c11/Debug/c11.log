@@ -1,0 +1,21 @@
+﻿已經開始建置於 2015/11/15 下午 06:42:09。
+     1>節點 2 (build 目標) 上的專案 "C:\myProgram\c\c11\c11.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Debug\c11.unsuccessfulbuild"。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt c11.cpp
+         c11.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\myProgram\c\c11\Debug\c11.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\c11.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\myProgram\c\c11\Debug\c11.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\myProgram\c\c11\Debug\c11.lib" /MACHINE:X86 Debug\c11.obj
+         LINK : 最後的累加連結找不到或未建置 C:\myProgram\c\c11\Debug\c11.exe，正在執行完整連結
+         c11.vcxproj -> C:\myProgram\c\c11\Debug\c11.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\myProgram\c\c11\Debug\c11.exe;#1" /manifest Debug\c11.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在刪除檔案 "Debug\c11.unsuccessfulbuild"。
+         正在變更時間戳記 "Debug\c11.lastbuildstate"。
+     1>專案 "C:\myProgram\c\c11\c11.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.37

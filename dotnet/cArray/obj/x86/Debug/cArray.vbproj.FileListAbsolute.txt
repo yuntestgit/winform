@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\cArray\bin\Debug\cArray.exe
+C:\myProgram\dotnet\cArray\bin\Debug\cArray.pdb
+C:\myProgram\dotnet\cArray\bin\Debug\cArray.xml
+C:\myProgram\dotnet\cArray\obj\x86\Debug\cArray.Form1.resources
+C:\myProgram\dotnet\cArray\obj\x86\Debug\cArray.Resources.resources
+C:\myProgram\dotnet\cArray\obj\x86\Debug\cArray.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\cArray\obj\x86\Debug\cArray.exe
+C:\myProgram\dotnet\cArray\obj\x86\Debug\cArray.xml
+C:\myProgram\dotnet\cArray\obj\x86\Debug\cArray.pdb

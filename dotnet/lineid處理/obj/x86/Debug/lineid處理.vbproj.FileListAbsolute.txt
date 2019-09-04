@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\lineid處理\bin\Debug\lineid處理.exe
+C:\myprogram\dotnet\lineid處理\bin\Debug\lineid處理.pdb
+C:\myprogram\dotnet\lineid處理\bin\Debug\lineid處理.xml
+C:\myprogram\dotnet\lineid處理\obj\x86\Debug\lineid處理.Form1.resources
+C:\myprogram\dotnet\lineid處理\obj\x86\Debug\lineid處理.Resources.resources
+C:\myprogram\dotnet\lineid處理\obj\x86\Debug\lineid處理.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\lineid處理\obj\x86\Debug\lineid處理.exe
+C:\myprogram\dotnet\lineid處理\obj\x86\Debug\lineid處理.xml
+C:\myprogram\dotnet\lineid處理\obj\x86\Debug\lineid處理.pdb

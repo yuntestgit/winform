@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\multiscreenlocation\bin\Debug\multiscreenlocation.exe
+C:\myProgram\dotnet\multiscreenlocation\bin\Debug\multiscreenlocation.pdb
+C:\myProgram\dotnet\multiscreenlocation\bin\Debug\multiscreenlocation.xml
+C:\myProgram\dotnet\multiscreenlocation\obj\x86\Debug\multiscreenlocation.Form1.resources
+C:\myProgram\dotnet\multiscreenlocation\obj\x86\Debug\multiscreenlocation.Resources.resources
+C:\myProgram\dotnet\multiscreenlocation\obj\x86\Debug\multiscreenlocation.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\multiscreenlocation\obj\x86\Debug\multiscreenlocation.exe
+C:\myProgram\dotnet\multiscreenlocation\obj\x86\Debug\multiscreenlocation.xml
+C:\myProgram\dotnet\multiscreenlocation\obj\x86\Debug\multiscreenlocation.pdb

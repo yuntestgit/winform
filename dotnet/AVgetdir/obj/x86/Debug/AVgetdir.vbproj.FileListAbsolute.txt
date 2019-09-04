@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\AVgetdir\bin\Debug\AVgetdir.exe
+C:\myProgram\dotnet\AVgetdir\bin\Debug\AVgetdir.pdb
+C:\myProgram\dotnet\AVgetdir\bin\Debug\AVgetdir.xml
+C:\myProgram\dotnet\AVgetdir\obj\x86\Debug\AVgetdir.Resources.resources
+C:\myProgram\dotnet\AVgetdir\obj\x86\Debug\AVgetdir.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\AVgetdir\obj\x86\Debug\AVgetdir.exe
+C:\myProgram\dotnet\AVgetdir\obj\x86\Debug\AVgetdir.xml
+C:\myProgram\dotnet\AVgetdir\obj\x86\Debug\AVgetdir.pdb
+C:\myProgram\dotnet\AVgetdir\obj\x86\Debug\AVgetdir.Form1.resources

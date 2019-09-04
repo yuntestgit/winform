@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\oop\bin\Debug\oop.exe
+C:\myProgram\dotnet\oop\bin\Debug\oop.pdb
+C:\myProgram\dotnet\oop\bin\Debug\oop.xml
+C:\myProgram\dotnet\oop\obj\x86\Debug\oop.Form1.resources
+C:\myProgram\dotnet\oop\obj\x86\Debug\oop.Resources.resources
+C:\myProgram\dotnet\oop\obj\x86\Debug\oop.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\oop\obj\x86\Debug\oop.exe
+C:\myProgram\dotnet\oop\obj\x86\Debug\oop.xml
+C:\myProgram\dotnet\oop\obj\x86\Debug\oop.pdb

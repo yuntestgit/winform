@@ -1,0 +1,8 @@
+C:\myProgram\dotnet\camera1\bin\Debug\camera1.exe
+C:\myProgram\dotnet\camera1\bin\Debug\camera1.pdb
+C:\myProgram\dotnet\camera1\bin\Debug\camera1.xml
+C:\myProgram\dotnet\camera1\obj\x86\Debug\camera1.Resources.resources
+C:\myProgram\dotnet\camera1\obj\x86\Debug\camera1.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\camera1\obj\x86\Debug\camera1.exe
+C:\myProgram\dotnet\camera1\obj\x86\Debug\camera1.xml
+C:\myProgram\dotnet\camera1\obj\x86\Debug\camera1.pdb

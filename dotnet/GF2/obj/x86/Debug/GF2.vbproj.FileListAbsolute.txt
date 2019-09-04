@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\GF2\bin\Debug\GF2.exe
+C:\myProgram\dotnet\GF2\bin\Debug\GF2.pdb
+C:\myProgram\dotnet\GF2\bin\Debug\GF2.xml
+C:\myProgram\dotnet\GF2\obj\x86\Debug\GF2.Form1.resources
+C:\myProgram\dotnet\GF2\obj\x86\Debug\GF2.Resources.resources
+C:\myProgram\dotnet\GF2\obj\x86\Debug\GF2.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\GF2\obj\x86\Debug\GF2.exe
+C:\myProgram\dotnet\GF2\obj\x86\Debug\GF2.xml
+C:\myProgram\dotnet\GF2\obj\x86\Debug\GF2.pdb

@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\lockbits\bin\Debug\lockbits.exe
+C:\myProgram\dotnet\lockbits\bin\Debug\lockbits.pdb
+C:\myProgram\dotnet\lockbits\bin\Debug\lockbits.xml
+C:\myProgram\dotnet\lockbits\obj\x86\Debug\lockbits.Form1.resources
+C:\myProgram\dotnet\lockbits\obj\x86\Debug\lockbits.Resources.resources
+C:\myProgram\dotnet\lockbits\obj\x86\Debug\lockbits.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\lockbits\obj\x86\Debug\lockbits.exe
+C:\myProgram\dotnet\lockbits\obj\x86\Debug\lockbits.xml
+C:\myProgram\dotnet\lockbits\obj\x86\Debug\lockbits.pdb

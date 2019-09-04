@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "lineid處理", "lineid處理.vbproj", "{72EB94F6-1A89-4D2A-9B39-8B94E65DBB68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72EB94F6-1A89-4D2A-9B39-8B94E65DBB68}.Debug|x86.ActiveCfg = Debug|x86
+		{72EB94F6-1A89-4D2A-9B39-8B94E65DBB68}.Debug|x86.Build.0 = Debug|x86
+		{72EB94F6-1A89-4D2A-9B39-8B94E65DBB68}.Release|x86.ActiveCfg = Release|x86
+		{72EB94F6-1A89-4D2A-9B39-8B94E65DBB68}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

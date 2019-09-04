@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\dllcreate\bin\Debug\dllcreate.exe
+C:\myProgram\dotnet\dllcreate\bin\Debug\dllcreate.pdb
+C:\myProgram\dotnet\dllcreate\bin\Debug\dllcreate.xml
+C:\myProgram\dotnet\dllcreate\obj\x86\Debug\dllcreate.Form1.resources
+C:\myProgram\dotnet\dllcreate\obj\x86\Debug\dllcreate.Resources.resources
+C:\myProgram\dotnet\dllcreate\obj\x86\Debug\dllcreate.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\dllcreate\obj\x86\Debug\dllcreate.exe
+C:\myProgram\dotnet\dllcreate\obj\x86\Debug\dllcreate.xml
+C:\myProgram\dotnet\dllcreate\obj\x86\Debug\dllcreate.pdb

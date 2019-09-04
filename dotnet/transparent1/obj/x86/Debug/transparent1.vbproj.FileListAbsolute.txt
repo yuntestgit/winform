@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\transparent1\bin\Debug\transparent1.exe
+C:\myProgram\dotnet\transparent1\bin\Debug\transparent1.pdb
+C:\myProgram\dotnet\transparent1\bin\Debug\transparent1.xml
+C:\myProgram\dotnet\transparent1\obj\x86\Debug\transparent1.Form1.resources
+C:\myProgram\dotnet\transparent1\obj\x86\Debug\transparent1.Resources.resources
+C:\myProgram\dotnet\transparent1\obj\x86\Debug\transparent1.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\transparent1\obj\x86\Debug\transparent1.exe
+C:\myProgram\dotnet\transparent1\obj\x86\Debug\transparent1.xml
+C:\myProgram\dotnet\transparent1\obj\x86\Debug\transparent1.pdb

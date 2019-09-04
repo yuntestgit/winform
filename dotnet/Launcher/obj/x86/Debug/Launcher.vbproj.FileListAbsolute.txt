@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\Launcher\bin\Debug\Launcher.exe
+C:\myProgram\dotnet\Launcher\bin\Debug\Launcher.pdb
+C:\myProgram\dotnet\Launcher\bin\Debug\Launcher.xml
+C:\myProgram\dotnet\Launcher\obj\x86\Debug\Launcher.Form1.resources
+C:\myProgram\dotnet\Launcher\obj\x86\Debug\Launcher.Resources.resources
+C:\myProgram\dotnet\Launcher\obj\x86\Debug\Launcher.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\Launcher\obj\x86\Debug\Launcher.exe
+C:\myProgram\dotnet\Launcher\obj\x86\Debug\Launcher.xml
+C:\myProgram\dotnet\Launcher\obj\x86\Debug\Launcher.pdb

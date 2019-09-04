@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\KeyCode\bin\Debug\KeyCode.exe
+C:\myProgram\dotnet\KeyCode\bin\Debug\KeyCode.pdb
+C:\myProgram\dotnet\KeyCode\bin\Debug\KeyCode.xml
+C:\myProgram\dotnet\KeyCode\obj\x86\Debug\KeyCode.Form1.resources
+C:\myProgram\dotnet\KeyCode\obj\x86\Debug\KeyCode.Resources.resources
+C:\myProgram\dotnet\KeyCode\obj\x86\Debug\KeyCode.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\KeyCode\obj\x86\Debug\KeyCode.exe
+C:\myProgram\dotnet\KeyCode\obj\x86\Debug\KeyCode.xml
+C:\myProgram\dotnet\KeyCode\obj\x86\Debug\KeyCode.pdb

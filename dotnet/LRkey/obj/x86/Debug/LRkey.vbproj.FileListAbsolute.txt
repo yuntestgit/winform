@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\LRkey\bin\Debug\LRkey.exe
+C:\myProgram\dotnet\LRkey\bin\Debug\LRkey.pdb
+C:\myProgram\dotnet\LRkey\bin\Debug\LRkey.xml
+C:\myProgram\dotnet\LRkey\obj\x86\Debug\LRkey.Form1.resources
+C:\myProgram\dotnet\LRkey\obj\x86\Debug\LRkey.Resources.resources
+C:\myProgram\dotnet\LRkey\obj\x86\Debug\LRkey.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\LRkey\obj\x86\Debug\LRkey.exe
+C:\myProgram\dotnet\LRkey\obj\x86\Debug\LRkey.xml
+C:\myProgram\dotnet\LRkey\obj\x86\Debug\LRkey.pdb

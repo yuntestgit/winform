@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\GFregister\bin\Debug\GFregister.exe
+C:\myProgram\dotnet\GFregister\bin\Debug\GFregister.pdb
+C:\myProgram\dotnet\GFregister\bin\Debug\GFregister.xml
+C:\myProgram\dotnet\GFregister\obj\x86\Debug\GFregister.Form1.resources
+C:\myProgram\dotnet\GFregister\obj\x86\Debug\GFregister.Resources.resources
+C:\myProgram\dotnet\GFregister\obj\x86\Debug\GFregister.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\GFregister\obj\x86\Debug\GFregister.exe
+C:\myProgram\dotnet\GFregister\obj\x86\Debug\GFregister.xml
+C:\myProgram\dotnet\GFregister\obj\x86\Debug\GFregister.pdb

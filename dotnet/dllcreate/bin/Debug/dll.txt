@@ -1,0 +1,19 @@
+專案>屬性>應用程式>組件資訊>讓組件成為COM-Visible
+
+mt.exe -inputresource:"C:\myProgram\dotnet\avtool16\bin\Debug\avtool17.dll";#2 -out:filename.dll.extracted.manifest
+mt.exe -manifest "c:\MyApp.dll.manifest" -outputresource:"C:\myProgram\dotnet\avtool16\bin\Debug\avtool16.dll";#2
+
+
+mt.exe -manifest c:\MyApp.dll.manifest -outputresource:C:\myProgram\dotnet\avtool17\bin\Debug\avtool17.dll;#2
+
+
+
+sn -k c:\avtool17.snk
+
+專案>屬性>簽署>簽署組件>選擇強式名稱金鑰檔>d:\xxx.snk
+
+編譯dll>移動dll
+
+regasm c:\avtool17.dll
+
+gacutil /I c:\avtool17.dll

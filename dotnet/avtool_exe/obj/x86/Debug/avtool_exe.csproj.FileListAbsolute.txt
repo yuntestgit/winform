@@ -1,0 +1,8 @@
+C:\myProgram\dotnet\avtool_exe\bin\Debug\avtool_exe.exe
+C:\myProgram\dotnet\avtool_exe\bin\Debug\avtool_exe.pdb
+C:\myProgram\dotnet\avtool_exe\obj\x86\Debug\avtool_exe.Properties.Resources.resources
+C:\myProgram\dotnet\avtool_exe\obj\x86\Debug\avtool_exe.csproj.GenerateResource.Cache
+C:\myProgram\dotnet\avtool_exe\obj\x86\Debug\avtool_exe.exe
+C:\myProgram\dotnet\avtool_exe\obj\x86\Debug\avtool_exe.pdb
+C:\myProgram\dotnet\avtool_exe\obj\x86\Debug\avtool_exe.Form1.resources
+C:\myProgram\dotnet\avtool_exe\obj\x86\Debug\avtool_exe.csprojResolveAssemblyReference.cache

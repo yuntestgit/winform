@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\GFtool 1.0\bin\Debug\GFtool 1.0.exe
+C:\myProgram\dotnet\GFtool 1.0\bin\Debug\GFtool 1.0.pdb
+C:\myProgram\dotnet\GFtool 1.0\bin\Debug\GFtool 1.0.xml
+C:\myProgram\dotnet\GFtool 1.0\obj\x86\Debug\GFtool_1._0.Form1.resources
+C:\myProgram\dotnet\GFtool 1.0\obj\x86\Debug\GFtool_1._0.Resources.resources
+C:\myProgram\dotnet\GFtool 1.0\obj\x86\Debug\GFtool 1.0.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\GFtool 1.0\obj\x86\Debug\GFtool 1.0.exe
+C:\myProgram\dotnet\GFtool 1.0\obj\x86\Debug\GFtool 1.0.xml
+C:\myProgram\dotnet\GFtool 1.0\obj\x86\Debug\GFtool 1.0.pdb

@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\mouseLocker\bin\Debug\mouseLocker.exe
+C:\myProgram\dotnet\mouseLocker\bin\Debug\mouseLocker.pdb
+C:\myProgram\dotnet\mouseLocker\bin\Debug\mouseLocker.xml
+C:\myProgram\dotnet\mouseLocker\obj\x86\Debug\mouseLocker.Form1.resources
+C:\myProgram\dotnet\mouseLocker\obj\x86\Debug\mouseLocker.Resources.resources
+C:\myProgram\dotnet\mouseLocker\obj\x86\Debug\mouseLocker.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\mouseLocker\obj\x86\Debug\mouseLocker.exe
+C:\myProgram\dotnet\mouseLocker\obj\x86\Debug\mouseLocker.xml
+C:\myProgram\dotnet\mouseLocker\obj\x86\Debug\mouseLocker.pdb

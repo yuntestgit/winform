@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\RCfindwindow\bin\Debug\RCfindwindow.exe
+C:\myProgram\dotnet\RCfindwindow\bin\Debug\RCfindwindow.pdb
+C:\myProgram\dotnet\RCfindwindow\bin\Debug\RCfindwindow.xml
+C:\myProgram\dotnet\RCfindwindow\obj\x86\Debug\RCfindwindow.Form1.resources
+C:\myProgram\dotnet\RCfindwindow\obj\x86\Debug\RCfindwindow.Resources.resources
+C:\myProgram\dotnet\RCfindwindow\obj\x86\Debug\RCfindwindow.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\RCfindwindow\obj\x86\Debug\RCfindwindow.exe
+C:\myProgram\dotnet\RCfindwindow\obj\x86\Debug\RCfindwindow.xml
+C:\myProgram\dotnet\RCfindwindow\obj\x86\Debug\RCfindwindow.pdb

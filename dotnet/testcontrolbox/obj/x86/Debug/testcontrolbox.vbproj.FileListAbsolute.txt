@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\testcontrolbox\bin\Debug\testcontrolbox.exe
+C:\myprogram\dotnet\testcontrolbox\bin\Debug\testcontrolbox.pdb
+C:\myprogram\dotnet\testcontrolbox\bin\Debug\testcontrolbox.xml
+C:\myprogram\dotnet\testcontrolbox\obj\x86\Debug\testcontrolbox.Form1.resources
+C:\myprogram\dotnet\testcontrolbox\obj\x86\Debug\testcontrolbox.Resources.resources
+C:\myprogram\dotnet\testcontrolbox\obj\x86\Debug\testcontrolbox.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\testcontrolbox\obj\x86\Debug\testcontrolbox.exe
+C:\myprogram\dotnet\testcontrolbox\obj\x86\Debug\testcontrolbox.xml
+C:\myprogram\dotnet\testcontrolbox\obj\x86\Debug\testcontrolbox.pdb

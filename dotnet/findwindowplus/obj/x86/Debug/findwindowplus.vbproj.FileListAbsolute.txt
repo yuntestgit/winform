@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\findwindowplus\bin\Debug\findwindowplus.exe
+C:\myProgram\dotnet\findwindowplus\bin\Debug\findwindowplus.pdb
+C:\myProgram\dotnet\findwindowplus\bin\Debug\findwindowplus.xml
+C:\myProgram\dotnet\findwindowplus\obj\x86\Debug\findwindowplus.Form1.resources
+C:\myProgram\dotnet\findwindowplus\obj\x86\Debug\findwindowplus.Resources.resources
+C:\myProgram\dotnet\findwindowplus\obj\x86\Debug\findwindowplus.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\findwindowplus\obj\x86\Debug\findwindowplus.exe
+C:\myProgram\dotnet\findwindowplus\obj\x86\Debug\findwindowplus.xml
+C:\myProgram\dotnet\findwindowplus\obj\x86\Debug\findwindowplus.pdb

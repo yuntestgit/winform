@@ -1,0 +1,8 @@
+C:\myProgram\dotnet\callrenamedir\bin\Debug\callrenamedir.exe
+C:\myProgram\dotnet\callrenamedir\bin\Debug\callrenamedir.pdb
+C:\myProgram\dotnet\callrenamedir\obj\x86\Debug\callrenamedir.Form1.resources
+C:\myProgram\dotnet\callrenamedir\obj\x86\Debug\callrenamedir.Properties.Resources.resources
+C:\myProgram\dotnet\callrenamedir\obj\x86\Debug\callrenamedir.csproj.GenerateResource.Cache
+C:\myProgram\dotnet\callrenamedir\obj\x86\Debug\callrenamedir.exe
+C:\myProgram\dotnet\callrenamedir\obj\x86\Debug\callrenamedir.pdb
+C:\myProgram\dotnet\callrenamedir\obj\x86\Debug\callrenamedir.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\array test\bin\Debug\array test.exe
+C:\myProgram\dotnet\array test\bin\Debug\array test.pdb
+C:\myProgram\dotnet\array test\bin\Debug\array test.xml
+C:\myProgram\dotnet\array test\obj\x86\Debug\array_test.Form1.resources
+C:\myProgram\dotnet\array test\obj\x86\Debug\array_test.Resources.resources
+C:\myProgram\dotnet\array test\obj\x86\Debug\array test.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\array test\obj\x86\Debug\array test.exe
+C:\myProgram\dotnet\array test\obj\x86\Debug\array test.xml
+C:\myProgram\dotnet\array test\obj\x86\Debug\array test.pdb

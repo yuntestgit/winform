@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\clicker\bin\Debug\clicker.exe
+C:\myprogram\dotnet\clicker\bin\Debug\clicker.pdb
+C:\myprogram\dotnet\clicker\bin\Debug\clicker.xml
+C:\myprogram\dotnet\clicker\obj\x86\Debug\clicker.Form1.resources
+C:\myprogram\dotnet\clicker\obj\x86\Debug\clicker.Resources.resources
+C:\myprogram\dotnet\clicker\obj\x86\Debug\clicker.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\clicker\obj\x86\Debug\clicker.exe
+C:\myprogram\dotnet\clicker\obj\x86\Debug\clicker.xml
+C:\myprogram\dotnet\clicker\obj\x86\Debug\clicker.pdb

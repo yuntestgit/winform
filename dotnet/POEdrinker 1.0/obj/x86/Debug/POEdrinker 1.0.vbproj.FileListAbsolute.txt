@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\POEdrinker 1.0\bin\Debug\POEdrinker 1.0.exe
+C:\myProgram\dotnet\POEdrinker 1.0\bin\Debug\POEdrinker 1.0.pdb
+C:\myProgram\dotnet\POEdrinker 1.0\bin\Debug\POEdrinker 1.0.xml
+C:\myProgram\dotnet\POEdrinker 1.0\obj\x86\Debug\POEdrinker_1._0.Form1.resources
+C:\myProgram\dotnet\POEdrinker 1.0\obj\x86\Debug\POEdrinker_1._0.Resources.resources
+C:\myProgram\dotnet\POEdrinker 1.0\obj\x86\Debug\POEdrinker 1.0.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\POEdrinker 1.0\obj\x86\Debug\POEdrinker 1.0.exe
+C:\myProgram\dotnet\POEdrinker 1.0\obj\x86\Debug\POEdrinker 1.0.xml
+C:\myProgram\dotnet\POEdrinker 1.0\obj\x86\Debug\POEdrinker 1.0.pdb

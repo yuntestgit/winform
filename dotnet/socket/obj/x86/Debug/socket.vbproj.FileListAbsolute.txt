@@ -1,0 +1,10 @@
+C:\myProgram\dotnet\socket\obj\x86\Debug\socket.vbprojResolveAssemblyReference.cache
+C:\myProgram\dotnet\socket\obj\x86\Debug\socket.Form1.resources
+C:\myProgram\dotnet\socket\obj\x86\Debug\socket.Resources.resources
+C:\myProgram\dotnet\socket\obj\x86\Debug\socket.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\socket\bin\Debug\socket.exe
+C:\myProgram\dotnet\socket\bin\Debug\socket.pdb
+C:\myProgram\dotnet\socket\bin\Debug\socket.xml
+C:\myProgram\dotnet\socket\obj\x86\Debug\socket.exe
+C:\myProgram\dotnet\socket\obj\x86\Debug\socket.xml
+C:\myProgram\dotnet\socket\obj\x86\Debug\socket.pdb

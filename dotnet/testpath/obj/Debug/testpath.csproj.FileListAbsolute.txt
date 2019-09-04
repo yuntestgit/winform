@@ -1,0 +1,4 @@
+C:\myProgram\dotnet\testpath\bin\Debug\testpath.dll
+C:\myProgram\dotnet\testpath\bin\Debug\testpath.pdb
+C:\myProgram\dotnet\testpath\obj\Debug\testpath.dll
+C:\myProgram\dotnet\testpath\obj\Debug\testpath.pdb

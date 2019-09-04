@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\region\bin\Debug\region.exe
+C:\myprogram\dotnet\region\bin\Debug\region.pdb
+C:\myprogram\dotnet\region\bin\Debug\region.xml
+C:\myprogram\dotnet\region\obj\x86\Debug\region.Form1.resources
+C:\myprogram\dotnet\region\obj\x86\Debug\region.Resources.resources
+C:\myprogram\dotnet\region\obj\x86\Debug\region.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\region\obj\x86\Debug\region.exe
+C:\myprogram\dotnet\region\obj\x86\Debug\region.xml
+C:\myprogram\dotnet\region\obj\x86\Debug\region.pdb

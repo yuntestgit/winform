@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\啟動參數\bin\Debug\啟動參數.exe
+C:\myprogram\dotnet\啟動參數\bin\Debug\啟動參數.pdb
+C:\myprogram\dotnet\啟動參數\bin\Debug\啟動參數.xml
+C:\myprogram\dotnet\啟動參數\obj\x86\Debug\啟動參數.Form1.resources
+C:\myprogram\dotnet\啟動參數\obj\x86\Debug\啟動參數.Resources.resources
+C:\myprogram\dotnet\啟動參數\obj\x86\Debug\啟動參數.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\啟動參數\obj\x86\Debug\啟動參數.exe
+C:\myprogram\dotnet\啟動參數\obj\x86\Debug\啟動參數.xml
+C:\myprogram\dotnet\啟動參數\obj\x86\Debug\啟動參數.pdb

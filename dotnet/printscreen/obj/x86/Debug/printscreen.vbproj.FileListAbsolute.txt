@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\printscreen\bin\Debug\printscreen.exe
+C:\myprogram\dotnet\printscreen\bin\Debug\printscreen.pdb
+C:\myprogram\dotnet\printscreen\bin\Debug\printscreen.xml
+C:\myprogram\dotnet\printscreen\obj\x86\Debug\printscreen.Resources.resources
+C:\myprogram\dotnet\printscreen\obj\x86\Debug\printscreen.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\printscreen\obj\x86\Debug\printscreen.exe
+C:\myprogram\dotnet\printscreen\obj\x86\Debug\printscreen.xml
+C:\myprogram\dotnet\printscreen\obj\x86\Debug\printscreen.pdb
+C:\myprogram\dotnet\printscreen\obj\x86\Debug\printscreen.Form1.resources

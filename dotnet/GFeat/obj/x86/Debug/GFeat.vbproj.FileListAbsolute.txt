@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\GFeat\bin\Debug\GFeat.exe
+C:\myProgram\dotnet\GFeat\bin\Debug\GFeat.pdb
+C:\myProgram\dotnet\GFeat\bin\Debug\GFeat.xml
+C:\myProgram\dotnet\GFeat\obj\x86\Debug\GFeat.Resources.resources
+C:\myProgram\dotnet\GFeat\obj\x86\Debug\GFeat.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\GFeat\obj\x86\Debug\GFeat.exe
+C:\myProgram\dotnet\GFeat\obj\x86\Debug\GFeat.xml
+C:\myProgram\dotnet\GFeat\obj\x86\Debug\GFeat.pdb
+C:\myProgram\dotnet\GFeat\obj\x86\Debug\GFeat.Form1.resources

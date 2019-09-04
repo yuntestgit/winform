@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\closeTool\bin\Debug\closeTool.exe
+C:\myprogram\dotnet\closeTool\bin\Debug\closeTool.pdb
+C:\myprogram\dotnet\closeTool\bin\Debug\closeTool.xml
+C:\myprogram\dotnet\closeTool\obj\x86\Debug\closeTool.Resources.resources
+C:\myprogram\dotnet\closeTool\obj\x86\Debug\closeTool.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\closeTool\obj\x86\Debug\closeTool.exe
+C:\myprogram\dotnet\closeTool\obj\x86\Debug\closeTool.xml
+C:\myprogram\dotnet\closeTool\obj\x86\Debug\closeTool.pdb
+C:\myprogram\dotnet\closeTool\obj\x86\Debug\closeTool.Form1.resources

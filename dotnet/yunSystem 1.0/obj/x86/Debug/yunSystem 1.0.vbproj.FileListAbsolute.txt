@@ -1,0 +1,10 @@
+C:\myProgram\dotnet\yunSystem 1.0\bin\Debug\yunSystem 1.0.exe
+C:\myProgram\dotnet\yunSystem 1.0\bin\Debug\yunSystem 1.0.pdb
+C:\myProgram\dotnet\yunSystem 1.0\bin\Debug\yunSystem 1.0.xml
+C:\myProgram\dotnet\yunSystem 1.0\obj\x86\Debug\yunSystem_1._0.Resources.resources
+C:\myProgram\dotnet\yunSystem 1.0\obj\x86\Debug\yunSystem 1.0.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\yunSystem 1.0\obj\x86\Debug\yunSystem 1.0.exe
+C:\myProgram\dotnet\yunSystem 1.0\obj\x86\Debug\yunSystem 1.0.xml
+C:\myProgram\dotnet\yunSystem 1.0\obj\x86\Debug\yunSystem 1.0.pdb
+C:\myProgram\dotnet\yunSystem 1.0\obj\x86\Debug\yunSystem_1._0.Main.resources
+C:\myProgram\dotnet\yunSystem 1.0\obj\x86\Debug\yunSystem_1._0.Alert.resources

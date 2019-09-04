@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\show_images\bin\Debug\show_images.exe
+C:\myProgram\dotnet\show_images\bin\Debug\show_images.pdb
+C:\myProgram\dotnet\show_images\bin\Debug\show_images.xml
+C:\myProgram\dotnet\show_images\obj\x86\Debug\show_images.Form1.resources
+C:\myProgram\dotnet\show_images\obj\x86\Debug\show_images.Resources.resources
+C:\myProgram\dotnet\show_images\obj\x86\Debug\show_images.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\show_images\obj\x86\Debug\show_images.exe
+C:\myProgram\dotnet\show_images\obj\x86\Debug\show_images.xml
+C:\myProgram\dotnet\show_images\obj\x86\Debug\show_images.pdb

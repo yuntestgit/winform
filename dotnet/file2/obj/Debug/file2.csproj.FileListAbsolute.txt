@@ -1,0 +1,4 @@
+C:\myProgram\dotnet\file2\bin\Debug\file2.dll
+C:\myProgram\dotnet\file2\bin\Debug\file2.pdb
+C:\myProgram\dotnet\file2\obj\Debug\file2.dll
+C:\myProgram\dotnet\file2\obj\Debug\file2.pdb

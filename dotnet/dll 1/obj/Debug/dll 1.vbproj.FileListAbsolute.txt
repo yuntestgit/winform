@@ -1,0 +1,8 @@
+C:\myProgram\dotnet\dll 1\bin\Debug\dll 1.dll
+C:\myProgram\dotnet\dll 1\bin\Debug\dll 1.pdb
+C:\myProgram\dotnet\dll 1\bin\Debug\dll 1.xml
+C:\myProgram\dotnet\dll 1\obj\Debug\dll_1.Resources.resources
+C:\myProgram\dotnet\dll 1\obj\Debug\dll 1.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\dll 1\obj\Debug\dll 1.dll
+C:\myProgram\dotnet\dll 1\obj\Debug\dll 1.xml
+C:\myProgram\dotnet\dll 1\obj\Debug\dll 1.pdb

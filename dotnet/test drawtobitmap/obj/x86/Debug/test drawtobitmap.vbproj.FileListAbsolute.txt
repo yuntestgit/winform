@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\test drawtobitmap\bin\Debug\test drawtobitmap.exe
+C:\myProgram\dotnet\test drawtobitmap\bin\Debug\test drawtobitmap.pdb
+C:\myProgram\dotnet\test drawtobitmap\bin\Debug\test drawtobitmap.xml
+C:\myProgram\dotnet\test drawtobitmap\obj\x86\Debug\test_drawtobitmap.Form1.resources
+C:\myProgram\dotnet\test drawtobitmap\obj\x86\Debug\test_drawtobitmap.Resources.resources
+C:\myProgram\dotnet\test drawtobitmap\obj\x86\Debug\test drawtobitmap.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\test drawtobitmap\obj\x86\Debug\test drawtobitmap.exe
+C:\myProgram\dotnet\test drawtobitmap\obj\x86\Debug\test drawtobitmap.xml
+C:\myProgram\dotnet\test drawtobitmap\obj\x86\Debug\test drawtobitmap.pdb

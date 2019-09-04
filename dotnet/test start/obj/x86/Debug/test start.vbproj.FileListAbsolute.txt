@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\test start\bin\Debug\test start.exe
+C:\myprogram\dotnet\test start\bin\Debug\test start.pdb
+C:\myprogram\dotnet\test start\bin\Debug\test start.xml
+C:\myprogram\dotnet\test start\obj\x86\Debug\test_start.Resources.resources
+C:\myprogram\dotnet\test start\obj\x86\Debug\test start.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\test start\obj\x86\Debug\test start.exe
+C:\myprogram\dotnet\test start\obj\x86\Debug\test start.xml
+C:\myprogram\dotnet\test start\obj\x86\Debug\test start.pdb
+C:\myprogram\dotnet\test start\obj\x86\Debug\test_start.Form1.resources

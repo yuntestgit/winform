@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\Keyhandler\bin\Debug\Keyhandler.exe
+C:\myProgram\dotnet\Keyhandler\bin\Debug\Keyhandler.pdb
+C:\myProgram\dotnet\Keyhandler\bin\Debug\Keyhandler.xml
+C:\myProgram\dotnet\Keyhandler\obj\x86\Debug\Keyhandler.Form1.resources
+C:\myProgram\dotnet\Keyhandler\obj\x86\Debug\Keyhandler.Resources.resources
+C:\myProgram\dotnet\Keyhandler\obj\x86\Debug\Keyhandler.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\Keyhandler\obj\x86\Debug\Keyhandler.exe
+C:\myProgram\dotnet\Keyhandler\obj\x86\Debug\Keyhandler.xml
+C:\myProgram\dotnet\Keyhandler\obj\x86\Debug\Keyhandler.pdb

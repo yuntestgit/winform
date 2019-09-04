@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\srtEditor\bin\Debug\srtEditor.exe
+C:\myprogram\dotnet\srtEditor\bin\Debug\srtEditor.pdb
+C:\myprogram\dotnet\srtEditor\bin\Debug\srtEditor.xml
+C:\myprogram\dotnet\srtEditor\obj\x86\Debug\srtEditor.Form1.resources
+C:\myprogram\dotnet\srtEditor\obj\x86\Debug\srtEditor.Resources.resources
+C:\myprogram\dotnet\srtEditor\obj\x86\Debug\srtEditor.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\srtEditor\obj\x86\Debug\srtEditor.exe
+C:\myprogram\dotnet\srtEditor\obj\x86\Debug\srtEditor.xml
+C:\myprogram\dotnet\srtEditor\obj\x86\Debug\srtEditor.pdb

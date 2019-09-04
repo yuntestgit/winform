@@ -1,0 +1,9 @@
+C:\myprogram\dotnet\cpptovb\bin\Debug\cpptovb.exe
+C:\myprogram\dotnet\cpptovb\bin\Debug\cpptovb.pdb
+C:\myprogram\dotnet\cpptovb\bin\Debug\cpptovb.xml
+C:\myprogram\dotnet\cpptovb\obj\x86\Debug\cpptovb.Form1.resources
+C:\myprogram\dotnet\cpptovb\obj\x86\Debug\cpptovb.Resources.resources
+C:\myprogram\dotnet\cpptovb\obj\x86\Debug\cpptovb.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\cpptovb\obj\x86\Debug\cpptovb.exe
+C:\myprogram\dotnet\cpptovb\obj\x86\Debug\cpptovb.xml
+C:\myprogram\dotnet\cpptovb\obj\x86\Debug\cpptovb.pdb

@@ -1,0 +1,10 @@
+C:\myprogram\dotnet\call dll2\bin\Debug\call dll2.exe
+C:\myprogram\dotnet\call dll2\bin\Debug\call dll2.pdb
+C:\myprogram\dotnet\call dll2\bin\Debug\call dll2.xml
+C:\myprogram\dotnet\call dll2\obj\x86\Debug\call dll2.vbprojResolveAssemblyReference.cache
+C:\myprogram\dotnet\call dll2\obj\x86\Debug\call_dll2.Form1.resources
+C:\myprogram\dotnet\call dll2\obj\x86\Debug\call_dll2.Resources.resources
+C:\myprogram\dotnet\call dll2\obj\x86\Debug\call dll2.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\call dll2\obj\x86\Debug\call dll2.exe
+C:\myprogram\dotnet\call dll2\obj\x86\Debug\call dll2.xml
+C:\myprogram\dotnet\call dll2\obj\x86\Debug\call dll2.pdb

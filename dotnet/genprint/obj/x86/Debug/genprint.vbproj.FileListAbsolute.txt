@@ -1,0 +1,9 @@
+C:\myProgram\dotnet\genprint\bin\Debug\genprint.exe
+C:\myProgram\dotnet\genprint\bin\Debug\genprint.pdb
+C:\myProgram\dotnet\genprint\bin\Debug\genprint.xml
+C:\myProgram\dotnet\genprint\obj\x86\Debug\genprint.Form1.resources
+C:\myProgram\dotnet\genprint\obj\x86\Debug\genprint.Resources.resources
+C:\myProgram\dotnet\genprint\obj\x86\Debug\genprint.vbproj.GenerateResource.Cache
+C:\myProgram\dotnet\genprint\obj\x86\Debug\genprint.exe
+C:\myProgram\dotnet\genprint\obj\x86\Debug\genprint.xml
+C:\myProgram\dotnet\genprint\obj\x86\Debug\genprint.pdb

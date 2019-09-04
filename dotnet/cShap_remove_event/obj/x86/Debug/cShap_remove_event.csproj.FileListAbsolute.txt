@@ -1,0 +1,7 @@
+C:\myProgram\dotnet\cShap_remove_event\bin\Debug\cShap_remove_event.exe
+C:\myProgram\dotnet\cShap_remove_event\bin\Debug\cShap_remove_event.pdb
+C:\myProgram\dotnet\cShap_remove_event\obj\x86\Debug\cShap_remove_event.Form1.resources
+C:\myProgram\dotnet\cShap_remove_event\obj\x86\Debug\cShap_remove_event.Properties.Resources.resources
+C:\myProgram\dotnet\cShap_remove_event\obj\x86\Debug\cShap_remove_event.csproj.GenerateResource.Cache
+C:\myProgram\dotnet\cShap_remove_event\obj\x86\Debug\cShap_remove_event.exe
+C:\myProgram\dotnet\cShap_remove_event\obj\x86\Debug\cShap_remove_event.pdb

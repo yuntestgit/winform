@@ -1,0 +1,8 @@
+C:\myProgram\dotnet\testsec\bin\Debug\testsec.exe
+C:\myProgram\dotnet\testsec\bin\Debug\testsec.pdb
+C:\myProgram\dotnet\testsec\obj\x86\Debug\testsec.Form1.resources
+C:\myProgram\dotnet\testsec\obj\x86\Debug\testsec.Properties.Resources.resources
+C:\myProgram\dotnet\testsec\obj\x86\Debug\testsec.csproj.GenerateResource.Cache
+C:\myProgram\dotnet\testsec\obj\x86\Debug\testsec.exe
+C:\myProgram\dotnet\testsec\obj\x86\Debug\testsec.pdb
+C:\myProgram\dotnet\testsec\obj\x86\Debug\testsec.csprojResolveAssemblyReference.cache

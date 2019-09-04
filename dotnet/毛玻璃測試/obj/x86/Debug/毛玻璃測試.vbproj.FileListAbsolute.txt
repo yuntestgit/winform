@@ -1,0 +1,10 @@
+C:\myprogram\dotnet\毛玻璃測試\bin\Debug\毛玻璃測試.exe
+C:\myprogram\dotnet\毛玻璃測試\bin\Debug\毛玻璃測試.pdb
+C:\myprogram\dotnet\毛玻璃測試\bin\Debug\毛玻璃測試.xml
+C:\myprogram\dotnet\毛玻璃測試\obj\x86\Debug\毛玻璃測試.Resources.resources
+C:\myprogram\dotnet\毛玻璃測試\obj\x86\Debug\毛玻璃測試.vbproj.GenerateResource.Cache
+C:\myprogram\dotnet\毛玻璃測試\obj\x86\Debug\毛玻璃測試.exe
+C:\myprogram\dotnet\毛玻璃測試\obj\x86\Debug\毛玻璃測試.xml
+C:\myprogram\dotnet\毛玻璃測試\obj\x86\Debug\毛玻璃測試.pdb
+C:\myprogram\dotnet\毛玻璃測試\obj\x86\Debug\毛玻璃測試.Form2.resources
+C:\myprogram\dotnet\毛玻璃測試\obj\x86\Debug\毛玻璃測試.Form1.resources
